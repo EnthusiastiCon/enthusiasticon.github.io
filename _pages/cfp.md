@@ -13,7 +13,7 @@ If this sounds exaggerated, let's put it another way:
 What is it you are enthusiastic about in the computing world?
 We are looking for breadth and curiosity.
 Regardless of your profession or background, if you are dealing with hardware, software or wetware.
-If you have been doing this for 20 years or just picked it up, please let us know about it!
+If you have been doing this for 20 years or just picked it up, please come to tell us about it!
 
 Anything related to technology or computing fits into the theme of this gathering.
 
@@ -21,19 +21,22 @@ Anything related to technology or computing fits into the theme of this gatherin
 
 We want to encourage you to submit a talk:
 
-* if you are a first time speaker. Think of this event like a friendly meetup where you can share at eye level.
+* if you are a first time speaker.
+Think of this event like a friendly meetup where you can share at eye level.
 * if you are part of an underrepresented group in technology.
-* if you hesitated submitting towards other conferences, because you have the feeling that you are less qualified or that you have nothing to contribute
+* if you hesitated submitting to other conferences, because you have the feeling that you are less qualified or that you have nothing to contribute
 
 ## Hints and advice
 
-* If you would like to submit a proposal, but still need to come up with a topic, consider [this guide](https://www.deconstructconf.com/blog/how-to-choose-a-talk-topic). It considers full length talks but still might be a source of inspiration.
-* All talks will be ten minutes long, keep into account that this can be underestimated.
-When in doubt, try to focus on a single idea rather than a multi-layer story. This is why we're asking for a proposed timeline.
-* The fellows from StarCon have prepared an [example proposal](https://starcon.io/cfp/#abstract) to illustrate how an abstract and timeline could look like.
+* If you would like to submit a proposal, but still need to come up with a topic, consider [this guide](https://www.deconstructconf.com/blog/how-to-choose-a-talk-topic).
+It considers full length talks but still might be a source of inspiration.
+* All talks will be ten minutes long, consider that this time is easy to underestimated.
+When in doubt, try to focus on a single idea rather than a multi-layer story.
+This is why we're asking for a proposed timeline.
+* The folk from StarCon have prepared an [example proposal](https://starcon.io/cfp/#abstract) to illustrate how an abstract and timeline could look like.
 
 
-## Mark your calendar
+## Mark in your calendar
 
 CfP opening on February 2, 2018
 
@@ -43,22 +46,25 @@ Acceptance/Rejection notification will be sent March 12, 2018
 
 ## Goals and the Way to Selection
 
-When reviewing and selecting talks we would like to avoid biases and keep the process as fair as possible. On the other hand we want to reach a high diversity with topics and speakers.
+When reviewing and selecting talks we would like to avoid biases and keep the process as fair as possible.
+On the other hand we want to reach a high diversity with topics and speakers.
 
 Your proposal will go through the following stages:
 1. **Anonymization** The CfP coordinator will seperate your name and contact information from the content of your proposal.
-2. The **Review** will happen in one batch after the deadline, to ensure comparability:
+2. The **Review** will happen in one batch after the deadline, to ensure consistency:
 
     * Each proposal will be assessed by each member of the review team **independently and individually**.
-    * The results will be **aggregated** for each talk
-    * A **ranking** of the talks will be created in a reviewer group discussion
-3. **De-anonymization** of speaker and contact information. There is a step for the review team to confirm their choices of proposals to accept.
+    * The results will be **aggregated** for each talk.
+    * A **ranking** of the talks will be created in a reviewer group discussion.
+3. **De-anonymization** of speaker and contact information.
+There is a step for the review team to confirm their choices of proposals to accept.
 4. All applicants are **informed** if their talk was accepted or rejected.
 
 ## Creative Commons
 
 Should your talk be accepted, it is our intention to record (audio/video), transcribe, and publish your talk on the internet for free under a [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
-So we ask that you make any materials used available under a CC BY-SA creative commons license. You will retain full ownership of any materials used in your talk (slide deck, handouts etc).
+So we ask that you make any materials used available under a CC BY-SA creative commons license.
+You will retain full ownership of any materials used in your talk (slide deck, handouts etc).
 
 If you are uncomfortable with this, please email our Speaker & CfP Coordinator $PERSON at [cfp2018@enthusiasticon.de](mailto:cfp2018@enthusiasticon.de) to discuss alternatives.
 
@@ -67,15 +73,18 @@ If you are uncomfortable with this, please email our Speaker & CfP Coordinator $
 
 **What if my talk doesn't get accepted?**
 
-Fear not! To thank you for submitting a talk, you will be granted access to early registration.
+Fear not!
+To thank you for submitting a talk, you will be granted access to early registration.
 
 **Can I submit more than one talk?**
 
-Yes, but please don’t submit more than two.  If both your talks are accepted, we will ask that you pick one.
+Yes, but please don’t submit more than two.
+If both your talks are accepted, we will ask that you pick one.
 
 **Can I get feedback on my application?**
 
-Unfortunately, we will not be able to offer this. We simply don’t have the resources to offer this to everyone at a quality we feel is appropriate.
+Unfortunately, we will not be able to offer this.
+We simply don’t have the resources to offer this to everyone at a quality we feel is appropriate.
 
 **I have other questions! Who do I talk to?**
 
