@@ -3,45 +3,24 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-StarCon is a two-day software engineering conference held in Waterloo, Ontario with two days of lightning talks about technology, computer science, programming, and the joy of learning about them!
 
-## Where and When
+EnthusiastiCon is a conference for the programming community. On a day full of short presentations, we will talk about what excites us about programming – the strange, the wonderful, and the clever solutions to unusual problems.
 
-StarCon 2018 was held at University of Waterloo on January 6th and 7th, 2018. Pictures taken by [Neha](https://www.instagram.com/ravellaaa) have been posted [here](flickr.com/photos/155812015@N03/sets/72157692529678365). Talks were recorded and videos will be posted once they have been sent to us. Information about a potential StarCon 2019 will be announced soon.
+We're hoping that wonderful people will join us to share their enthusiasm with us or listen to what makes fellow programmers beam with joy about our craft.
 
-{::nomarkdown}
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My love of this conference format CANNOT be overstated. The speakers at <a href="https://twitter.com/hashtag/StarCon?src=hash&amp;ref_src=twsrc%5Etfw">#StarCon</a> are rocking it. Congrats on a badass morning. <a href="https://twitter.com/hashtag/KWawesome?src=hash&amp;ref_src=twsrc%5Etfw">#KWawesome</a></p>&mdash; Sam Campbell (@MsSammieRose) <a href="https://twitter.com/MsSammieRose/status/949706977516466176?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
+## The plan
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m enjoying the consistent theme across talks that people are awesome, learning is the best, and we&#39;ve had good experiences with communities around our tech of choice. There&#39;s a lot of nice excitement in this room. <a href="https://twitter.com/hashtag/StarCon?src=hash&amp;ref_src=twsrc%5Etfw">#StarCon</a></p>&mdash; Breanne Boland (@breanneboland) <a href="https://twitter.com/breanneboland/status/949737637954269184?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today at <a href="https://twitter.com/hashtag/starcon?src=hash&amp;ref_src=twsrc%5Etfw">#starcon</a> I learned so much, all interesting things that I would never have thought to google</p>&mdash; Tristan (@DrTeePot) <a href="https://twitter.com/DrTeePot/status/949754079999270912?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
-
-<br/>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-{:/}
-
-
-## Speakers
-
-Check out our [2018 invited keynotes and speakers](speakers/#keynotes)! Our call for proposals to speak at StarCon has closed but you can learn more about it [here](/cfp/).
+EnthusiastiCon will be held on **March 31 and April 1, 2018** in Berlin.
+Saturday will be a day full of talks at a space at [Wikimedia Deutschland](https://www.openstreetmap.org/node/2551527703).
+For Sunday we're discussing about an open space for sharing and collaboration.
 
 ## Who Can Attend
 
 This conference is open to everyone!
 
-## The Venue
+## Keep me posted!
 
-StarCon was held in the [Mathematics 3](https://www.google.com/maps/place/Mathematics+3+(M3)/@43.473224,-80.5441028,15z/data=!4m5!3m4!1s0x0:0x2ee32a10cd3a1d73!8m2!3d43.473224!4d-80.5441028) building at the University of Waterloo. You can read about our venue (including parking and accessibility) [here](/venue).
-
-## Policies
-
-Learn about our photography, alcohol, and other policies [here](/policies)!
-
-## Where can I get updates?
-
-Follow us on [Twitter](https://twitter.com/starconuw) or [Facebook](https://www.facebook.com/starconuw/). You can also sign up for our mailing list for updates:
+Sign up for our mailing list for updates:
 
 {::nomarkdown}
 <!-- Begin MailChimp Signup Form -->
@@ -65,22 +44,5 @@ Follow us on [Twitter](https://twitter.com/starconuw) or [Facebook](https://www.
 <br>
 {:/}
 <!--End mc_embed_signup-->
-
-## Who's running this?
-
-[Arshia](https://twitter.com/arshia__), [Anna](http://annalorimer.com/), [Evy](http://evykassirer.com), [Erin](https://www.linkedin.com/in/erin-edward/), [Fatima](https://www.linkedin.com/in/fatima-taj-37363a109/), and [Shivangi](https://www.linkedin.com/in/spatwardhan2018/) are students at the University of Waterloo and former organizers of [UW Women in Computer Science (Undergraduate)](http://wics.uwaterloo.ca).
-
----
-
-## Territorial Acknowledgement ##
-
-StarCon would like to acknowledge that we are on the traditional territory of
-the Neutral, Anishnawbe and Haudenosaunee peoples. The University of Waterloo is
-situated on the Haldimand Tract, the land promised to the Six Nations that
-includes six miles on each side of the Grand River. It is important to remember
-that the land that we are using today for this event was stolen, and that there
-is lots of work to do to bring back the rights that indigenous and Native people
-deserve. We make this acknowledgement as part of our efforts to be inclusive and
-respectful of people from diverse backgrounds.
 
 </div>

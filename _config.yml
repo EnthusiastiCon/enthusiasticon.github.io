@@ -1,26 +1,22 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: StarCon               # used for the html title of every page
+title: EnthusiastiCon               # used for the html title of every page
 desc: >
   A software engineering conference taking place in Waterloo this January!
 
-url: http://starcon.io      # put your website hosting url here
+url: http://enthusiasticon.de      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: uwstarcon@gmail.com
-author: StarCon
-twitter_username: starconuw
-github_username: StarConUW
+email: info@enthusiasticon.de
+author: EnthusiastiCon
+twitter_username:
+github_username:
 
 # Put your ga tracking code below
-google_analytics: 'UA-104945288-1'
-
-# Pagination settings
-paginate: 5                           # number of posts to show per page
-paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf as is
+google_analytics: ''
 
 # Navigation settings
 # Used to define the navigation menu items
@@ -29,12 +25,9 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
-  - title: Schedule
-    url: /schedule/
-    desc: Schedule
-  - title: Sponsors
-    url: /sponsors/
-    desc: Sponsor us!
+  - title: Call for Proposals
+    url: /cfp/
+    desc: Submit a talk!
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct
@@ -61,6 +54,3 @@ include:
 exclude:
   - README.md
   - vendor
-gems:
-  - jekyll-paginate
-
