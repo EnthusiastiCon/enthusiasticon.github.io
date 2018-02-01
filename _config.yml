@@ -3,7 +3,7 @@
 # Site settings
 title: EnthusiastiCon               # used for the html title of every page
 desc: >
-  A software engineering conference taking place in Waterloo this January!
+  A software engineering conference taking place in Berlin this March!
 
 url: http://zormit.github.io      # put your website hosting url here
 baseurl: '/enthusiasticon-eventpage'     # the subpath of your site, e.g. /blog
