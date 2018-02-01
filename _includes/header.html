@@ -3,8 +3,11 @@
   <h1 class="site-title">
     <a href="{{ site.baseurl }}/" title="Home page"><img class="site-logo" src="{{ site.baseurl }}/assets/img/logo.png"></a>
   </h1>
+  <h2 class="site-subtitle">
+    March 31 & April 1 2018 — Berlin
+  </h2>
 
-  <nav class="site-nav">
+  <!--nav class="site-nav">
     {% for link in site.navigation %}
       {% assign current = nil %}
       {% if page.url contains link.url %}
@@ -12,7 +15,7 @@
       {% endif %}
     <a href="{{ link.url | prepend: site.baseurl }}" {{ current }} {% if link.desc %} title="{{ link.desc }}" {% endif %}>{{ link.title }}</a>
     {% endfor %}
-  </nav>
+  </nav-->
 
 </header>
 <!-- site-header -->

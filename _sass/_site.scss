@@ -1,23 +1,17 @@
 .site {
-  margin-right: auto;
-  margin-left: auto;
-  padding: 0 $spacer;
-  @include make-container();
+  // margin-right: auto;
+  // margin-left: auto;
+  // padding: 0 $spacer;
 }
 
 // RESPONSIVE SITE
-@include mq-up(sm) {
+/*@include mq-up(sm) {
   .site {
     padding: 0 $spacer2;
   }
-}
+}*/
 
 // SITE HEADER ====================================
-
-.site-header {
-  margin: $spacer4 0 $spacer1;
-  @include clearfix();
-}
 
 .site-logo {
   width: 3rem;
@@ -33,6 +27,12 @@
 
 .site-title {
   text-align: center;
+}
+
+.site-subtitle {
+  text-align: center;
+  font-size: 2.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .site-nav a {
@@ -63,7 +63,7 @@
 
 @include mq-up(sm) {
   .site-header {
-    margin: $spacer4 0 $spacer2;
+    margin: 0 0 $spacer2;
   }
 
   .site-title {
@@ -98,7 +98,7 @@
   .site-title {
     float: left;
     width: 100%;
-    text-align: inherit;
+    // text-align: inherit;
     margin-bottom: $spacer0;
   }
 }
@@ -106,10 +106,14 @@
 // SITE FOOTER ====================================
 
 .site-footer {
-  margin: 4rem 0 6rem;
-  padding-top: $spacer1;
+  // margin: 4rem 0 6rem;
+  // padding-top: $spacer1;
   font-family: $font-heading;
-  border-top: 1px solid $brand-light-color;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  // border-top: 1px solid $brand-light-color;
 }
 
 .site-footer {
@@ -196,12 +200,16 @@
 
 // CUSTOM CSS ================
 
-html, body, .site-header, .site-footer {
-  background: #3d4654;
+.site-header, .site-footer {
+  // background: #3d4654;
+  background: #fdffb7;
+  width: 100%;
 }
 
 .site-header, .site-footer {
-  color: white;
+  color: #f37223;
+}
+/*
   a, .site-source a {
     color: white;
   }
@@ -217,7 +225,7 @@ html, body, .site-header, .site-footer {
     color: #f8e145;
     background-color: transparent;
   }
-}
+}*/
 
 .site-content {
   padding: 2em;
