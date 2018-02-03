@@ -33,7 +33,7 @@ It considers full length talks but still might be a source of inspiration.
 * All talks will be ten minutes long, consider that this time is easy to underestimated.
 When in doubt, try to focus on a single idea rather than a multi-layer story.
 This is why we're asking for a proposed timeline.
-* The folk from StarCon have prepared an [example proposal](https://starcon.io/cfp/#abstract) to illustrate how an abstract and timeline could look like.
+* The folk from StarCon have prepared an [example proposal](https://starcon.io/cfp/#abstract) to illustrate how an abstract and timeline could look like. Lindsey Kuper has also written about [how to write a timeline](http://composition.al/blog/2017/06/30/how-to-write-a-timeline-for-a-bangbangcon-talk-proposal/).
 
 
 ## Mark in your calendar
