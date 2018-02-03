@@ -20,8 +20,9 @@
 
 .site-nav {
   display: flex;
-  justify-content: center;
-  font-family: "Lato", serif;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
   font-size: 1.1rem;
 }
 
@@ -70,9 +71,16 @@
     margin-bottom: $spacer1;
   }
 
-  .site-nav a {
-    margin-right: $spacer1;
+  .site-nav {
+    width: 80%;
+    margin-top: $spacer0;
+    justify-content: space-around;
+    font-size: 1.25rem;
+    a {
+      margin-right: $spacer1;
+    }
   }
+
 }
 
 @include mq-up(md) {
@@ -83,8 +91,7 @@
   }
 
   .site-nav {
-    float: right;
-    width: 80%;
+    width: 60%;
     margin-top: $spacer0;
     justify-content: space-around;
     font-size: 1.25rem;
@@ -108,12 +115,11 @@
 .site-footer {
   // margin: 4rem 0 6rem;
   // padding-top: $spacer1;
-  font-family: $font-heading;
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
-  // border-top: 1px solid $brand-light-color;
+  border-top: 1px solid $brand-light-color;
 }
 
 .site-footer {
@@ -228,9 +234,13 @@
 }*/
 
 .site-content {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 5em;
   padding: 2em;
   background: $gray-lightest;
-  border-radius: 20px;
+  // border-radius: 20px;
+  @include make-container();
 }
 
 .site-logo {

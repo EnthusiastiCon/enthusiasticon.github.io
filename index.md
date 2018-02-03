@@ -16,7 +16,7 @@ For Sunday we're discussing about an open space for sharing and collaboration.
 
 ## Who Can Attend
 
-This conference is open to everyone!
+This conference is open to everyone! We would be delighted about receiving a [talk proposal]({{ site.baseurl }}/cfp) from you.
 
 ## Keep me posted!
 
