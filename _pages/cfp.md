@@ -66,7 +66,7 @@ Should your talk be accepted, it is our intention to record (audio/video), trans
 So we ask that you make any materials used available under a CC BY-SA creative commons license.
 You will retain full ownership of any materials used in your talk (slide deck, handouts etc).
 
-If you are uncomfortable with this, please email our Speaker & CfP Coordinator $PERSON at [cfp2018@enthusiasticon.de](mailto:cfp2018@enthusiasticon.de) to discuss alternatives.
+If you are uncomfortable with this, please email our Speaker & CfP Coordinator Moritz Neeb at [cfp2018@enthusiasticon.de](mailto:cfp2018@enthusiasticon.de) to discuss alternatives.
 
 
 ## FAQ
@@ -88,4 +88,4 @@ We simply don’t have the resources to offer this to everyone at a quality we f
 
 **I have other questions! Who do I talk to?**
 
-Our Speaker & CfP Coordinator is $SOMEBODY, send any and all CfP-related questions to them at [cfp2018@enthusiasticon.de](mailto:cfp2018@enthusiasticon.de)
+Our Speaker & CfP Coordinator is Moritz Neeb, send any and all CfP-related questions to him at [cfp2018@enthusiasticon.de](mailto:cfp2018@enthusiasticon.de)
