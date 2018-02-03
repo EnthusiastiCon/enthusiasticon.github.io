@@ -1,25 +1,15 @@
 <footer class="site-footer">
 
-  <div class="site-copy">&copy; {{ site.time | date: '%Y' }}<span class="site-author">{{ site.author }}</span></div>
-
-  <div class="site-links">
-    <div class="site-contact">
-      <ul>
-        {% if site.email %}
-        <li><a href="mailto:{{ site.email }}">Contact</a></li>
-        {% endif %}
-
-        {% if site.github_username %}
-        <li><a target="_blank" rel="external" href="https://github.com/{{ site.github_username }}">Github</a></li>
-        {% endif %}
-
-        {% if site.twitter_username %}
-        <li><a target="_blank" rel="external" href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
-        {% endif %}
-
-      </ul>
-    </div>
-  </div>
+  <nav class="site-nav">
+    {% for link in site.navigation %}
+      {% assign current = nil %}
+      {% if page.url contains link.url %}
+        {% assign current = 'class="current"' %}
+      {% endif %}
+    <a href="{{ link.url | prepend: site.baseurl }}" {{ current }} {% if link.desc %} title="{{ link.desc }}" {% endif %}>{{ link.title }}</a>
+      {% if forloop.last == false %}|{% endif %}
+    {% endfor %}
+  </nav>
 
 </footer>
 <!-- site-footer -->

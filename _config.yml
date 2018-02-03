@@ -22,6 +22,8 @@ google_analytics: ''
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
+  - title: Home
+    url: /
   - title: About
     url: /about/
     desc: Learn about us
