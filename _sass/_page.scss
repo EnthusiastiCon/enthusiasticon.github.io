@@ -180,3 +180,17 @@ p.post-desc {
     margin: -1.2rem 1rem 0 2rem;
   }
 }
+
+// PAGE SPONSORS ==================================
+
+.gridify {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  vertical-align: top;
+}
+
+.gridify img {
+  max-height: 150px;
+}
