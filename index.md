@@ -19,6 +19,24 @@ For Sunday we're discussing an open space for sharing and collaboration.
 
 This conference is open to everyone! We would be delighted about receiving a [talk proposal]({{ site.baseurl }}/cfp) from you.
 
+## Our Sponsors
+
+{::nomarkdown}
+
+<div class="gridify">
+  <a href="https://port-zero.com">
+    <img alt="logo portzero" src="{{ site.baseurl}}/assets/img/logo_portzero.png">
+  </a>
+</div>
+
+<div class="gridify">
+  <a href="https://recurse.com">
+    <img alt="logo recurse" src="{{ site.baseurl}}/assets/img/logo_recurse.png">
+  </a>
+</div>
+
+{:/}
+
 ## Keep me posted!
 
 Sign up for our mailing list for updates:
