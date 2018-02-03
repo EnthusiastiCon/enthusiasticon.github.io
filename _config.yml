@@ -16,7 +16,7 @@ twitter_username:
 github_username:
 
 # Put your ga tracking code below
-google_analytics: ''
+# google_analytics: ''
 
 # Navigation settings
 # Used to define the navigation menu items
@@ -56,3 +56,4 @@ include:
 exclude:
   - README.md
   - vendor
+  - assets/js
