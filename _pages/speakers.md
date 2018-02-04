@@ -30,8 +30,8 @@ to each other and to themselves, well, all the better.
 
 ## Talks
 
-Our [call for proposals]({{ site.baseurl}}/cfp) is currently open! You can still
-submit talks. We will put a schedule up as soon as we’ve finished the selection
-process, probably two weeks before the event.
+Our [call for proposals]({{ site.baseurl}}/cfp) is currently open! You can now
+submit talks. We will put up a schedule as soon as we’ve finished the selection
+process, about two weeks before the event.
 
 </div>
