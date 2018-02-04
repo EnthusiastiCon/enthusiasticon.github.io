@@ -9,6 +9,7 @@ permalink: /coc/
 # Code of Conduct
 
 EnthusiastiCon is organized under the [Friendly space policy for Wikimedia events](http://wikimediafoundation.org/wiki/Friendly_space_policy).
+Please read it with care.
 
 We want to make sure that everyone is feeling safe and welcome.
 At the same time it's a first-time organizing a conference for most of us.
