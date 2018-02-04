@@ -17,7 +17,9 @@ For Sunday we're discussing an open space for sharing and collaboration.
 
 ## Who Can Attend
 
-This conference is open to everyone! We would be delighted about receiving a [talk proposal]({{ site.baseurl }}/cfp) from you.
+This conference is open to everyone!
+We would be delighted about receiving a [talk proposal]({{ site.baseurl }}/cfp) from you.
+For the talks we have space for up to 100 people and the attendance will be free (although we might charge a no-show-fee).
 
 ## Our Sponsors
 
@@ -57,5 +59,7 @@ Sign up for our mailing list for updates:
 
 {:/}
 <!--End mc_embed_signup-->
+
+If you happen to have any questions, we can be reached at [info@enthusiasticon.de](mailto:info@enthusiasticon.de).
 
 </div>
