@@ -33,6 +33,9 @@ navigation:
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct
+  - title: Speakers
+    url: /speakers/
+    desc: Our speakers
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
