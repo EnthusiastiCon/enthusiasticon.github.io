@@ -5,7 +5,7 @@ title: EnthusiastiCon               # used for the html title of every page
 desc: >
   A software engineering conference taking place in Berlin this March!
 
-url: http://enthusiaticon.de      # put your website hosting url here
+url: http://enthusiasticon.de      # put your website hosting url here
 baseurl: ''     # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
