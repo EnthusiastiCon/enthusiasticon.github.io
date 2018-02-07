@@ -12,7 +12,7 @@ We're hoping that wonderful people will join us to share their enthusiasm with u
 ## The plan
 
 EnthusiastiCon will be held on **March 31 and April 1, 2018** in Berlin.
-Saturday will be a day full of talks at the [Wikimedia Deutschland](https://www.openstreetmap.org/node/2551527703) space.
+Saturday will be a day full of talks.
 For Sunday we're discussing an open space for sharing and collaboration.
 
 ## Who Can Attend
