@@ -13,7 +13,7 @@ permalink: /speakers/
 
 ### Rachel Uwa
 
-#### Foobar
+#### #newsociety — a call out to future humans: let's be bolder
 
 Rachel Uwa is an artist, educator, and founder of School of Machines, Making &
 Make-Believe.
