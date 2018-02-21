@@ -49,7 +49,7 @@ When reviewing and selecting talks we would like to avoid biases and keep the pr
 On the other hand we want to reach a high diversity with topics and speakers.
 
 Your proposal will go through the following stages:
-1. **Anonymization:** The CfP coordinator will seperate your name and contact information from the content of your proposal.
+1. **Anonymization:** The CfP coordinator will separate your name and contact information from the content of your proposal.
 2. The **Review** will happen in one batch after the deadline, to ensure consistency:
 
     * Each proposal will be assessed by each member of the review team **independently and individually**.
