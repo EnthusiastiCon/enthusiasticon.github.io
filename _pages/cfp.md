@@ -39,7 +39,7 @@ This is why we're asking for a proposed timeline.
 
 CfP opening on February 2, 2018
 
-CfP closing on ~~[February 28, 2018](https://www.timeanddate.com/countdown/generic?iso=20180305T235959&p0=37&msg=EnthusiastiCon+CfP+Deadline)~~ The CFP was extended to March 5, 2018!
+CfP closing on ~~February 28, 2018~~ The CFP was extended to [March 5, 2018](https://www.timeanddate.com/countdown/generic?iso=20180305T235959&p0=37&msg=EnthusiastiCon+CfP+Deadline)!
 
 Selection notification will be sent March 12, 2018
 
