@@ -4,6 +4,8 @@ layout: default
 
 <div class="lead pretty-links">
 
+**CfP deadline extended to March 5th**
+
 EnthusiastiCon is a conference for the programming community.
 We will talk about what excites us the most about programming — the strange, the wonderful, and the clever solutions to unusual problems — on a day full of short presentations.
 
