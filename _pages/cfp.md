@@ -17,7 +17,7 @@ If you have been doing this for 20 years or just picked it up, please come to te
 
 Anything related to technology or computing fits into the theme of this gathering.
 
-**[Submit Your Talk Here](https://goo.gl/forms/Q8XsweaLOn0sQKj32)**
+**The Call for Proposals is closed. This pages is left for posterity.**
 
 We want to encourage you to submit a talk:
 

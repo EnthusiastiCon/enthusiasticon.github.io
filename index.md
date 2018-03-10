@@ -18,10 +18,9 @@ For Sunday we're discussing an open space for sharing and collaboration.
 ## Who Can Attend
 
 This conference is open to everyone!
-We would be delighted to receive a [talk proposal]({{ site.baseurl }}/cfp) from you.
 We have room for up to 100 people at the venue and attendance will be free, though we may charge a no-show fee.
 
-We extended the Call for Proposals. You can still hand in your talk idea by Monday!
+The [CfP]({{ site.baseurl }}/cfp) is closed, thanks for all proposals sent in.
 
 ## Our Sponsors
 
