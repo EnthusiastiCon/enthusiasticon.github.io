@@ -27,6 +27,9 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
+  - title: Venue
+    url: /venue/
+    desc: Come here.
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct
