@@ -27,9 +27,6 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
-  - title: Call for Proposals
-    url: /cfp/
-    desc: Submit a talk!
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct
