@@ -41,6 +41,25 @@ We extended the Call for Proposals. You can still hand in your talk idea by Mond
 
 {:/}
 
+
+## Our Hosts
+
+{::nomarkdown}
+
+<div class="gridify">
+  <a href="https://www.thoughtworks.com">
+    <img alt="logo portzero" src="{{ site.baseurl}}/assets/img/logo_thought_works.png">
+  </a>
+</div>
+
+<div class="gridify">
+  <a href="http://co-up.de">
+    <img alt="logo recurse" src="{{ site.baseurl}}/assets/img/logo_co_up.png">
+  </a>
+</div>
+
+{:/}
+
 ## Keep me posted!
 
 Sign up for our mailing list for updates:
