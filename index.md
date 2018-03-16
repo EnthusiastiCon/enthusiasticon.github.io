@@ -38,6 +38,18 @@ The [CfP]({{ site.baseurl }}/cfp) is closed, thanks for all proposals sent in.
   </a>
 </div>
 
+<div class="gridify">
+  <a href="https://www.thoughtworks.com/events">
+    <img alt="logo thoughtworks" src="{{ site.baseurl}}/assets/img/logo_tw.png">
+  </a>
+</div>
+
+<div class="gridify">
+  <a href="http://co-up.de/events.html">
+    <img alt="logo co.up" src="{{ site.baseurl}}/assets/img/logo_coup.png">
+  </a>
+</div>
+
 {:/}
 
 ## Keep me posted!
