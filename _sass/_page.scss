@@ -183,6 +183,11 @@ p.post-desc {
 
 // PAGE SPONSORS ==================================
 
+.gridify:before {
+  display: inline-block;
+  vertical-align: middle;
+}
+
 .gridify {
   display: inline-block;
   width: 150px;
