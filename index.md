@@ -12,8 +12,9 @@ We're hoping that wonderful people will join us to share their enthusiasm with u
 ## The plan
 
 EnthusiastiCon will be held on **March 31 and April 1, 2018** in Berlin.
-Saturday will be a day full of talks.
-For Sunday we're discussing an open space for sharing and collaboration.
+Saturday will be a day full of talks at ThoughtWorks.
+For Sunday we're discussing an open space for sharing and collaboration at Co.up.
+Find more information on the venues [here](/venue).
 
 ## Who Can Attend
 
