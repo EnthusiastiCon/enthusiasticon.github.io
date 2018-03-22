@@ -28,26 +28,38 @@ The [CfP]({{ site.baseurl }}/cfp) is closed, thanks for all proposals sent in.
 {::nomarkdown}
 
 <div class="gridify">
-  <a href="https://port-zero.com">
-    <img alt="logo portzero" src="{{ site.baseurl}}/assets/img/logo_portzero.png">
+  <a href="https://travis-ci.com/?utm_source=enthusiasticon" target="_blank">
+    <img alt="logo co.up" title="Travis CI" src="{{ site.baseurl}}/assets/img/logo_travis.png">
   </a>
 </div>
 
 <div class="gridify">
-  <a href="https://recurse.com">
-    <img alt="logo recurse" src="{{ site.baseurl}}/assets/img/logo_recurse.png">
+  <a href="https://port-zero.com" target="_blank">
+    <img alt="logo portzero" title="Port Zero" src="{{ site.baseurl}}/assets/img/logo_portzero.png">
   </a>
 </div>
 
 <div class="gridify">
-  <a href="https://www.thoughtworks.com/events">
-    <img alt="logo thoughtworks" src="{{ site.baseurl}}/assets/img/logo_tw.png">
+  <a href="https://recurse.com" target="_blank">
+    <img alt="logo recurse" title="Recurse Center" src="{{ site.baseurl}}/assets/img/logo_recurse.png">
+  </a>
+</div>
+
+{:/}
+
+### Our Hosts
+
+{::nomarkdown}
+
+<div class="gridify">
+  <a href="https://www.thoughtworks.com/events" target="_blank">
+    <img alt="logo thoughtworks" title="ThoughtsWorks" src="{{ site.baseurl}}/assets/img/logo_tw.png">
   </a>
 </div>
 
 <div class="gridify">
-  <a href="http://co-up.de/events.html">
-    <img alt="logo co.up" src="{{ site.baseurl}}/assets/img/logo_coup.png">
+  <a href=http://co-up.de/events.html target="_blank">
+    <img alt="logo co.up"  title="Co.up" src="{{ site.baseurl}}/assets/img/logo_coup.png">
   </a>
 </div>
 
