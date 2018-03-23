@@ -18,10 +18,22 @@ Find more information on the venues [here](/venue).
 
 ## Who Can Attend
 
-This conference is open to everyone!
-We have room for up to 100 people at the venue and attendance will be free, though we may charge a no-show fee.
+This conference is open to everyone! Attendance will be free.
+Please register before coming to the event, but only if you're actually coming.
+If you're arriving without registration we might not be able to let you in for reasons of space.
+We have **two independent registrations**, one for each day.
 
-The [CfP]({{ site.baseurl }}/cfp) is closed, thanks for all proposals sent in.
+### Saturday -- Talks
+
+This day will be a day full of [talks](/talks). Maybe we will use some of the time to prepare ideas for Sunday. Specific schedule TDB.
+Please register [at eventbrite](https://www.eventbrite.de/e/enthusiasticon-talks-saturday-tickets-44470221630).
+We have room for up to 100 people at ThoughtWorks.
+
+### Sunday -- Open Sessions
+
+We don't know either what will happen on Sunday. This depends significantly on you, as we will do this in an open, barcamp style. Discussion rounds, tutoring, meditation, dancing, everything is possible.
+Please register [at eventbrite](https://www.eventbrite.de/e/enthusiasticon-open-sessions-sunday-tickets-44470482410).
+We have room for up to 50 people at Co.up.
 
 ## Our Sponsors
 
