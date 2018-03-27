@@ -94,6 +94,12 @@ Lucas is a CS student currently interning at Wikimedia Deutschland. When
 he had too much free time in the third semester, he found Ceylon and
 started working on its code formatter. He’s been hooked ever since.
 
+### Mike Lazer-Walker
+[So THAT’S how my phone knows where I am!](/talks#so-thats-how-my-phone-knows-where-i-am)
+
+Mike makes interactive art, experimental games, and software tools.
+Above all, he makes things that spark intellectual curiosity and inspire people to become self-motivated learners.
+
 ### Nasreen Abu-Hunaina and Joseph Yiasemides
 [May the Forth Be with You](/talks#may-the-forth-be-with-you)
 

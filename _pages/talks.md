@@ -120,6 +120,16 @@ Let me introduce you to some of my geometrically shaped friends and how they beh
 Ceylon, a modern programming language running on the JVM and on JS platforms, offers many interesting features, but among the most exciting is its innovative and highly expressive type system, which allows you, your IDE, and the compiler to reason about your code with more confidence than you’re probably used to.
 This talk offers an introduction to two core parts of the type system, along with a look at what else is possible in Ceylon.
 
+### So THAT’S how my phone knows where I am!
+[Mike Lazer-Walker](/speakers#mike-lazer-walker)
+
+Your phone knows where you are at all times, usually with pretty shocking accuracy.
+How the heck does it know that?!
+This talk will dive into the math and physics underlying modern smartphone location technology (GPS, AGPS, and indoor location), but it will also do so by means of a walk through history.
+Modern GPS arose out of Cold War-era US DoD research, but how is that research connected to the larger historical and political context of geolocation throughout history?
+How is the technical solution to tracking Russian missiles directly indebted to the 17th century sailors who developed smarter ways to locate themselves on the open sea?
+This talk will answer all of that and more!
+
 ### May the Forth Be with You
 [Nasreen Abu-Hunaina and Joseph Yiasemides](/speakers#nasreen-abu-hunaina-and-joseph-yiasemides)
 
