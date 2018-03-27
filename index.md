@@ -25,7 +25,7 @@ We have **two independent registrations**, one for each day.
 
 ### Saturday -- Talks
 
-This day will be a day full of [talks](/talks). Maybe we will use some of the time to prepare ideas for Sunday. Specific schedule TDB.
+This day will be a day full of [talks](/talks). Maybe we will use some of the time to prepare ideas for Sunday. You can find the programme [here](/programme).
 Please register [at eventbrite](https://www.eventbrite.de/e/enthusiasticon-talks-saturday-tickets-44470221630).
 We have room for up to 100 people at ThoughtWorks.
 
