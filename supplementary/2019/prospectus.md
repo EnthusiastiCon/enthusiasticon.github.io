@@ -9,21 +9,19 @@ Our only criteria are that the material is about computing and enthusiasm!
 
 ## Last Year
 
-- How many attendees
-
 In 2018 we were humbled by the quality and refreshing variety of our talks.
 What's more is that we were able to make EnthusiastiCon free to attend which we believe is key to making it accessible and inclusive.
 We were able to do this because of the support we recieved from sponsors.
 
 * We had more than double the number of talks proposed than slots.
-* 60 attendees on the first day of talks.
-* 30 attendees on the second day of participant-led workshops.
+* 50 attendees on the first day of talks.
+* 15 attendees on the second day of participant-led workshops.
 * Many were first time speakers.
 
 ## Our Team
 
 The 2019 organising team is Nasreen Abu-Hunaina, Veit Heller, Moritz Need, Jens Ohlig, Joseph Yiasemides.
-Inspired by !!Con in NYC and its other derivative conferences we liked the idea of holding a similar event in Europe.
+Inspired by !!Con in NYC and its other derivative conferences, we liked the idea of holding a similar event in Europe.
 One of our organisers wrote a blog post in 2018 with some context surrounding the conference: https://blog.veitheller.de/Enthusiasticon.html
 
 ## Sponsorship
@@ -31,21 +29,21 @@ One of our organisers wrote a blog post in 2018 with some context surrounding th
 The way we approach sponsorship is directly through the event's costs.
 In return for sponsorship we can offer:
 
-- Logo + name on site
-- Logo + name on correspondance
-- Logo, mention, and acknowledgement at opening and closing
+- Name & Logo on site
+- Name & Logo on electronic correspondance (e-mail & social media)
+- Name, Logo, and acknowledgement at opening and closing
 
 ## Event Costs
 
-- Keynote speaker (transport & accomodation)
-- Space (insurance)
+- Opening speaker (transport & accomodation)
+- Space (possibly including insurance)
 - Catering (lunch)
 - Coffee
-- Meet-up page or EventBrite
+- Meetup page or EventBrite
 - Web site
 
 ## Event Details
 
 * Date: 25 & 26 May 2019
-* Venue: TBD
-* Attendance: 30-60
+* Venue: ThoughtWorks & Co.up
+* Expected attendance: 30-60
