@@ -20,6 +20,7 @@
 
 .site-nav {
   display: flex;
+  align-items: center;
   text-align: center;
   margin-right: auto;
   margin-left: auto;
@@ -45,18 +46,12 @@
   &:hover {
     text-decoration: none;
     color: $link-color;
-    background-color: $brand-light-color;
-  }
-
-  &:focus,
-  &:active {
-    background-color: $link-color;
-    text-decoration: none;
-    color: #fff;
+    background-color: #596d82;
   }
 
   &.current {
-    font-weight: bold;
+    background: $link-color;
+    color: #3d4654;
   }
 }
 
@@ -73,7 +68,6 @@
 
   .site-nav {
     width: 80%;
-    margin-top: $spacer0;
     justify-content: space-around;
     font-size: 1.25rem;
     a {
@@ -92,7 +86,6 @@
 
   .site-nav {
     width: 60%;
-    margin-top: $spacer0;
     justify-content: space-around;
     font-size: 1.25rem;
 
@@ -119,7 +112,6 @@
   bottom: 0;
   left: 0;
   right: 0;
-  border-top: 1px solid $brand-light-color;
 }
 
 .site-footer {
@@ -244,9 +236,10 @@
 }
 
 .site-logo {
-  width: auto;
+  width: 80%;
   height: auto;
-  margin-left: 0;
+  margin-top: 1rem;
+  max-width: 50rem;
 }
 
 #contact-us + p + form {
@@ -270,13 +263,6 @@
 
 .pretty-links a:hover {
   color: #3d4654;
-}
-
-/* these aren't working but ?? oh well */
-
-.site-nav a:focus, .site-nav a:active {
-  color: #3d4654;
-  background-image: none;
 }
 
 // speakers page
