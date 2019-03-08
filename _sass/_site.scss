@@ -22,9 +22,12 @@
   display: flex;
   align-items: center;
   text-align: center;
+  flex-wrap: wrap;
   margin-right: auto;
   margin-left: auto;
-  font-size: 1.1rem;
+
+  justify-content: center;
+  font-size: 1.4rem;
 }
 
 .site-title {
@@ -32,6 +35,7 @@
 }
 
 .site-subtitle {
+  font-family: Montserrat, sans-serif;
   text-align: center;
   font-size: 2.5rem;
   padding-bottom: 1.5rem;
@@ -39,9 +43,10 @@
 
 .site-nav a {
   flex: 0 1 auto;
-  padding: 0 .25rem;
+  padding: 0 1rem;
   margin-right: $spacer0;
   transition: background 0.1s ease-out;
+  white-space: nowrap;
 
   &:hover {
     text-decoration: none;
@@ -52,54 +57,6 @@
   &.current {
     background: $link-color;
     color: #3d4654;
-  }
-}
-
-// SITE HEADER - RESPONSIVE ------------------
-
-@include mq-up(sm) {
-  .site-header {
-    margin: 0 0 $spacer2;
-  }
-
-  .site-title {
-    margin-bottom: $spacer1;
-  }
-
-  .site-nav {
-    width: 80%;
-    justify-content: space-around;
-    font-size: 1.25rem;
-    a {
-      margin-right: $spacer1;
-    }
-  }
-
-}
-
-@include mq-up(md) {
-  .site-logo {
-    margin-left: $spacer0;
-    width: 3.5rem;
-    height: 3.5rem;
-  }
-
-  .site-nav {
-    width: 60%;
-    justify-content: space-around;
-    font-size: 1.25rem;
-
-    a {
-      margin-right: 0;
-      padding: .25rem $spacer0;
-    }
-  }
-
-  .site-title {
-    float: left;
-    width: 100%;
-    // text-align: inherit;
-    margin-bottom: $spacer0;
   }
 }
 
@@ -253,6 +210,10 @@
 @media (min-width: 768px) {
   h2 { font-size: 1.7rem }
 .lead { font-size: 1rem }
+}
+
+@media (max-width: 768px) {
+  .site-subtitle { font-size: 2rem }
 }
 
 @media (min-width: 768px) { .lead { font-size: 1.2rem } }
