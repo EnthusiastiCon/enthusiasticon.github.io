@@ -35,12 +35,15 @@ In return for sponsorship we can offer:
 
 ## Event Costs
 
-- Opening speaker (transport & accomodation)
-- Space (possibly including insurance)
-- Catering (lunch)
-- Coffee
-- Meetup page or EventBrite
-- Web site
+| Cost                                       | Amount  |
+|--------------------------------------------|---------|
+| Opening speaker (transport & accomodation) |         |
+| Space (insurance)                          |         |
+| Catering (lunch)                           | €800.00 |
+| Coffee                                     |         |
+| Meetup page                                | €12.00  |
+| Web site                                   |         |
+
 
 ## Event Details
 
