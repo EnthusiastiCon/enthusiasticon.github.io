@@ -40,10 +40,6 @@ In return for sponsorship we can offer:
 | Catering (lunch)                           | €800.00 |
 | Opening speaker (transport & accomodation) | €500.00 | 
 | Meetup page                                | €12.00  |
-| Space for day two (insurance)              |         |
-| Coffee                                     |         |
-| Web site                                   |         |
-
 
 ## Event Details
 
