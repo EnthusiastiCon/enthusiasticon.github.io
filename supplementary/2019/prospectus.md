@@ -35,11 +35,14 @@ In return for sponsorship we can offer:
 
 ## Event Costs
 
+In order of priority:
+
 | Cost                                                                | Amount  |
 |---------------------------------------------------------------------|---------|
 | Catering (lunch)                                                    | €800.00 |
-| Opening speaker (transport from elsewhere in Europe & accomodation) | €500.00 | 
 | Meetup page                                                         | €12.00  |
+| Insurance for recording equipment                                   | €120.00 |
+| Opening speaker (transport from elsewhere in Europe & accomodation) | €500.00 |
 
 ## Event Details
 
