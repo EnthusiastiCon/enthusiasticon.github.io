@@ -31,16 +31,18 @@ In return for sponsorship we can offer:
 
 - Name & Logo on site
 - Name & Logo on electronic correspondance (e-mail & social media)
-- Name, Logo, and acknowledgement at opening and closing
+- Name, Logo, and acknowledgement (a few words about you and why we think you're a great fit for EnthusiastiCon) at opening and closing
 
 ## Event Costs
 
-- Opening speaker (transport & accomodation)
-- Space (possibly including insurance)
-- Catering (lunch)
-- Coffee
-- Meetup page or EventBrite
-- Web site
+In order of priority:
+
+| Cost                                                                | Amount  |
+|---------------------------------------------------------------------|---------|
+| Catering (lunch)                                                    | €800.00 |
+| Meetup page                                                         | €12.00  |
+| Insurance for recording equipment                                   | €120.00 |
+| Opening speaker (transport from elsewhere in Europe & accomodation) | €500.00 |
 
 ## Event Details
 
