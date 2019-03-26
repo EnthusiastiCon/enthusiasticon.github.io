@@ -33,12 +33,9 @@ navigation:
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct
-  - title: Speakers
-    url: /speakers/
-    desc: Our speakers
-  - title: Programme
-    url: /programme/
-    desc: The Programme
+  - title: Call for Proposals
+    url: /cfp/
+    desc: Call for Proposals
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
