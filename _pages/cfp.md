@@ -26,6 +26,8 @@ Think of this event like a friendly meetup where you can share at eye level.
 * if you are part of an underrepresented group in technology.
 * if you hesitated submitting to other conferences, because you have the feeling that you are less qualified or that you have nothing to contribute.
 
+The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
+
 ## Hints and advice
 
 * If you would like to submit a proposal, but still need to come up with a topic, consider [this guide](https://www.deconstructconf.com/blog/how-to-choose-a-talk-topic).
@@ -35,9 +37,13 @@ When in doubt, try to focus on a single idea rather than a multi-layer story.
 This is why we're asking for a proposed timeline.
 * The folk from StarCon have prepared an [example proposal](https://starcon.io/cfp/#abstract) to illustrate what an abstract and timeline could look like. Lindsey Kuper has also written about [how to write a timeline](http://composition.al/blog/2017/06/30/how-to-write-a-timeline-for-a-bangbangcon-talk-proposal/).
 
+The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
+
+
 ## Mark in your calendar
 
-CfP opening on Monday 1st April 2019.
+CfP opening on Monday 1st April 2019. The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
+
 
 CfP closing on [Sunday 21 April 2019](https://www.timeanddate.com/countdown/launch?iso=20190421T2355&p0=37&msg=EnthusiastiCon+2019+CfP&ud=1&font=cursive)!
 
@@ -65,7 +71,7 @@ Should your talk be accepted, it is our intention to record (audio/video), trans
 So we ask that you make any materials used available under a CC BY-SA creative commons license.
 You will retain full ownership of any materials used in your talk (slide deck, handouts etc).
 
-If you are uncomfortable with this, please email our Speaker & CfP Coordinator Moritz Neeb at [cfp2018@enthusiasticon.de](mailto:cfp2018@enthusiasticon.de) to discuss alternatives.
+If you are uncomfortable with this, please email our Speaker & CfP Coordinator Joseph Yiasemides at [cfp2019@enthusiasticon.de](mailto:cfp2019@enthusiasticon.de) to discuss alternatives.
 
 
 ## FAQ
@@ -87,4 +93,4 @@ We simply don’t have the resources to offer this to everyone at a quality we f
 
 **I have other questions! Who do I talk to?**
 
-Our Speaker & CfP Coordinator is Moritz Neeb, send any and all CfP-related questions to him at [cfp2018@enthusiasticon.de](mailto:cfp2018@enthusiasticon.de)
+Our Speaker & CfP Coordinator is Joseph Yiasemides, send any and all CfP-related questions to him at [cfp2019@enthusiasticon.de](mailto:cfp2019@enthusiasticon.de)

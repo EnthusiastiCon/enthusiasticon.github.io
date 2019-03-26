@@ -19,20 +19,23 @@ Find more information on the venues [here](/venue).
 ## Who Can Attend
 
 This conference is open to everyone! Attendance will be free.
-Please register before coming to the event, but only if you're actually coming.
+Once open, please register before coming to the event, but only if you're actually coming.
 If you're arriving without registration we might not be able to let you in for reasons of space.
 We have **two independent registrations**, one for each day.
 
+Check here soon for how to register.
+
 ### Saturday -- Talks
 
-This day will be a day full of [talks](/talks). Maybe we will use some of the time to prepare ideas for Sunday. You can find the programme [here](/programme).
-Please register [at eventbrite](https://www.eventbrite.de/e/enthusiasticon-talks-saturday-tickets-44470221630).
+This day will be a day full of [talks](/talks). You can find the programme [here](/programme).
+
+Please register [when registration opens]().
 We have room for up to 100 people at ThoughtWorks.
 
 ### Sunday -- Open Sessions
 
-We don't know either what will happen on Sunday. This depends significantly on you, as we will do this in an open, barcamp style. Discussion rounds, tutoring, meditation, dancing, everything is possible.
-Please register [at eventbrite](https://www.eventbrite.de/e/enthusiasticon-open-sessions-sunday-tickets-44470482410).
+Sunday depends significantly on all of us, as we will do this in an open/barcamp style, so we don't know what we'll get up to either. Discussion rounds, tutoring, meditation, dancing, everything is possible.
+Please register [when registration opens]().
 We have room for up to 50 people at Co.up.
 
 ## Our Sponsors for 2019
@@ -70,28 +73,3 @@ We have room for up to 50 people at Co.up.
 </div>
 
 {:/}
-
-## Keep me posted!
-
-Sign up for our mailing list for updates:
-
-{::nomarkdown}
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="https://enthusiasticon.us17.list-manage.com/subscribe/post?u=a26d2cbae500753eac01df297&amp;id=a6a9d0e3b2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a26d2cbae500753eac01df297_a6a9d0e3b2" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-{:/}
-<!--End mc_embed_signup-->
-
-If you happen to have any questions, you can reach us at [info@enthusiasticon.de](mailto:info@enthusiasticon.de).
-
-</div>
