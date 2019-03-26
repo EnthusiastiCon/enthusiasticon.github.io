@@ -5,7 +5,7 @@ subtitle: Call for Proposals
 permalink: /cfp/
 ---
 
-EnthusiastiCon is back in 2018 and needs **you**!
+EnthusiastiCon is back in 2019 and needs **you**!
 We are looking for people who like to share their passion for technology.
 Be it a project you are having fun with, a fascinating bug you solved or the story of how you learned something special.
 
@@ -17,7 +17,7 @@ If you have been doing this for 20 years or just picked it up, please come to te
 
 Anything related to technology or computing fits into the theme of this gathering.
 
-**The Call for Proposals is closed. This pages is left for posterity.**
+**The Call for Proposals is open!**
 
 We want to encourage you to submit a talk:
 
@@ -37,11 +37,11 @@ This is why we're asking for a proposed timeline.
 
 ## Mark in your calendar
 
-CfP opening on February 2, 2018
+CfP opening on Monday 1st April 2019.
 
-CfP closing on ~~February 28, 2018~~ The CFP was extended to [March 5, 2018](https://www.timeanddate.com/countdown/generic?iso=20180305T235959&p0=37&msg=EnthusiastiCon+CfP+Deadline)!
+CfP closing on [Sunday 21 April 2019](https://www.timeanddate.com/countdown/launch?iso=20190421T2355&p0=37&msg=EnthusiastiCon+2019+CfP&ud=1&font=cursive)!
 
-Selection notification will be sent March 12, 2018
+Selection notification will be sent out the following week.
 
 ## Goals and the Way to Selection
 

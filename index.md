@@ -11,9 +11,9 @@ We're hoping that wonderful people will join us to share their enthusiasm with u
 
 ## The plan
 
-EnthusiastiCon will be held on **March 31 and April 1, 2018** in Berlin.
+EnthusiastiCon will be held on **May 25 and May 26, 2019** in Berlin.
 Saturday will be a day full of talks at ThoughtWorks.
-For Sunday we're discussing an open space for sharing and collaboration at Co.up.
+For Sunday we're at an open space for sharing and collaboration with Co.up.
 Find more information on the venues [here](/venue).
 
 ## Who Can Attend
@@ -35,15 +35,9 @@ We don't know either what will happen on Sunday. This depends significantly on y
 Please register [at eventbrite](https://www.eventbrite.de/e/enthusiasticon-open-sessions-sunday-tickets-44470482410).
 We have room for up to 50 people at Co.up.
 
-## Our Sponsors
+## Our Sponsors for 2019
 
 {::nomarkdown}
-
-<div class="gridify">
-  <a href="https://travis-ci.com/?utm_source=enthusiasticon" target="_blank">
-    <img alt="logo co.up" title="Travis CI" src="{{ site.baseurl}}/assets/img/logo_travis.png">
-  </a>
-</div>
 
 <div class="gridify">
   <a href="https://port-zero.com" target="_blank">
