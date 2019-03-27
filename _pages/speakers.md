@@ -7,6 +7,11 @@ permalink: /speakers/
 
 <div class="pretty-links">
 
+We'll be listing speakers once the Call for Proposals closes.
+Check back sooner for our keynote speaker.
+In the meantime, if you have an idea, why not submit a talk [here](https://forms.gle/g6tCLBmqyvWQ5MFr8).
+
+<!---
 ## Keynote
 
 <img class="speaker-img" alt="just a portrait" src="{{ site.baseurl}}/assets/img/portrait.absent.jpeg">
@@ -25,3 +30,4 @@ permalink: /speakers/
 <A bit about the speaker>
 
 </div>
+--->

@@ -5,6 +5,10 @@ subtitle: Programme
 permalink: /programme/
 ---
 
+We'll be listing the programme once the Call for Proposals closes.
+In the meantime, if you have an idea, why not submit a talk [here](https://forms.gle/g6tCLBmqyvWQ5MFr8).
+
+<!--
 Here's the programme and speaker line-up (TBC):
 
 | 09:00 - 11:15 | **Arrival & Keynote**                                                                 |
@@ -45,3 +49,4 @@ Here's the programme and speaker line-up (TBC):
 |               | ... |
 |               | ... |
 | 16:15         | Closing remarks and goodbye                                                           |
+-->
