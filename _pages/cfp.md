@@ -5,7 +5,7 @@ subtitle: Call for Proposals
 permalink: /cfp/
 ---
 
-EnthusiastiCon is back in 2018 and needs **you**!
+EnthusiastiCon is back in 2019 and needs **you**!
 We are looking for people who like to share their passion for technology.
 Be it a project you are having fun with, a fascinating bug you solved or the story of how you learned something special.
 
@@ -17,7 +17,7 @@ If you have been doing this for 20 years or just picked it up, please come to te
 
 Anything related to technology or computing fits into the theme of this gathering.
 
-**The Call for Proposals is closed. This pages is left for posterity.**
+**The Call for Proposals is open!**
 
 We want to encourage you to submit a talk:
 
@@ -25,6 +25,8 @@ We want to encourage you to submit a talk:
 Think of this event like a friendly meetup where you can share at eye level.
 * if you are part of an underrepresented group in technology.
 * if you hesitated submitting to other conferences, because you have the feeling that you are less qualified or that you have nothing to contribute.
+
+The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
 
 ## Hints and advice
 
@@ -35,13 +37,17 @@ When in doubt, try to focus on a single idea rather than a multi-layer story.
 This is why we're asking for a proposed timeline.
 * The folk from StarCon have prepared an [example proposal](https://starcon.io/cfp/#abstract) to illustrate what an abstract and timeline could look like. Lindsey Kuper has also written about [how to write a timeline](http://composition.al/blog/2017/06/30/how-to-write-a-timeline-for-a-bangbangcon-talk-proposal/).
 
+The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
+
+
 ## Mark in your calendar
 
-CfP opening on February 2, 2018
+CfP opening on Monday 1st April 2019. The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
 
-CfP closing on ~~February 28, 2018~~ The CFP was extended to [March 5, 2018](https://www.timeanddate.com/countdown/generic?iso=20180305T235959&p0=37&msg=EnthusiastiCon+CfP+Deadline)!
 
-Selection notification will be sent March 12, 2018
+CfP closing on [Sunday 21 April 2019](https://www.timeanddate.com/countdown/launch?iso=20190421T2355&p0=37&msg=EnthusiastiCon+2019+CfP&ud=1&font=cursive)!
+
+Selection notification will be sent out the following week.
 
 ## Goals and the Way to Selection
 
@@ -65,7 +71,7 @@ Should your talk be accepted, it is our intention to record (audio/video), trans
 So we ask that you make any materials used available under a CC BY-SA creative commons license.
 You will retain full ownership of any materials used in your talk (slide deck, handouts etc).
 
-If you are uncomfortable with this, please email our Speaker & CfP Coordinator Moritz Neeb at [cfp2018@enthusiasticon.de](mailto:cfp2018@enthusiasticon.de) to discuss alternatives.
+If you are uncomfortable with this, please email our Speaker & CfP Coordinator Joseph Yiasemides at [cfp2019@enthusiasticon.de](mailto:cfp2019@enthusiasticon.de) to discuss alternatives.
 
 
 ## FAQ
@@ -87,4 +93,4 @@ We simply don’t have the resources to offer this to everyone at a quality we f
 
 **I have other questions! Who do I talk to?**
 
-Our Speaker & CfP Coordinator is Moritz Neeb, send any and all CfP-related questions to him at [cfp2018@enthusiasticon.de](mailto:cfp2018@enthusiasticon.de)
+Our Speaker & CfP Coordinator is Joseph Yiasemides, send any and all CfP-related questions to him at [cfp2019@enthusiasticon.de](mailto:cfp2019@enthusiasticon.de)
