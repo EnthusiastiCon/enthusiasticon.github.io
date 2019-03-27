@@ -18,7 +18,7 @@ You can find out more [here](/cfp).
 
 ## The Plan
 
-EnthusiastiCon will be held on **May 25 and May 26, 2019** in Berlin.
+EnthusiastiCon will be held on **May 25 & 26, 2019** in Berlin.
 Saturday will be a day full of talks at ThoughtWorks.
 For Sunday we're at an open space for sharing and collaboration with Co.up.
 Find more information on the venues [here](/venue).
