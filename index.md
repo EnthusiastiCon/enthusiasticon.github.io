@@ -34,14 +34,16 @@ Check here soon for how to register.
 
 ### Saturday -- Talks
 
-This day will be a day full of [talks](/talks). You can find the programme [here](/programme).
+This day will be a day full of [talks](/talks).
+You can find the programme [here](/programme).
 
 Please register [when registration opens]().
 We have room for up to 100 people at ThoughtWorks.
 
 ### Sunday -- Open Sessions
 
-Sunday depends significantly on all of us, as we will do this in an open/barcamp style, so we don't know what we'll get up to either. Discussion rounds, tutoring, meditation, dancing, everything is possible.
+Sunday depends significantly on all of us, as we will do this in an open/barcamp style, so we don't know what we'll get up to either.
+Discussion rounds, tutoring, meditation, dancing, everything is possible.
 Please register [when registration opens]().
 We have room for up to 50 people at Co.up.
 
