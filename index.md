@@ -11,8 +11,8 @@ We're hoping that wonderful people will join us to share their enthusiasm with u
 
 ## Call for Proposals
 
-The Call for Proposals opens **1st April 2019**.
-Once open, go ahead and submit a talk proposal [here](https://forms.gle/g6tCLBmqyvWQ5MFr8).
+The Call for Proposals is **open**.
+Please go ahead and submit a talk proposal [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
 You can find out more [here](/cfp).
 
 
