@@ -17,7 +17,7 @@ If you have been doing this for 20 years or just picked it up, please come to te
 
 Anything related to technology or computing fits into the theme of this gathering.
 
-**The Call for Proposals opens on April 1st!**
+**The Call for Proposals is open!**
 
 We want to encourage you to submit a talk:
 
@@ -26,7 +26,7 @@ Think of this event like a friendly meetup where you can share at eye level.
 * if you are part of an underrepresented group in technology.
 * if you hesitated submitting to other conferences, because you have the feeling that you are less qualified or that you have nothing to contribute.
 
-The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
+**The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!**
 
 ## Hints and advice
 
@@ -38,16 +38,14 @@ This is why we're asking for a proposed timeline.
 * The folk from StarCon have prepared an [example proposal](https://starcon.io/cfp/#abstract) to illustrate what an abstract and timeline could look like.
 Lindsey Kuper has also written about [how to write a timeline](http://composition.al/blog/2017/06/30/how-to-write-a-timeline-for-a-bangbangcon-talk-proposal/).
 
-The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
+**The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!**
 
 
 ## Mark in your calendar
 
-CfP opening on Monday **1st April 2019**. The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
 
-
-CfP closing on [Sunday 21 April 2019](https://www.timeanddate.com/countdown/launch?iso=20190421T2355&p0=37&msg=EnthusiastiCon+2019+CfP&ud=1&font=cursive)!
-
+CfP is closing on [Sunday 21 April 2019](https://www.timeanddate.com/countdown/launch?iso=20190421T2355&p0=37&msg=EnthusiastiCon+2019+CfP&ud=1&font=cursive)!
+The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
 Selection notification will be sent out the following week.
 
 ## Goals and the Way to Selection
