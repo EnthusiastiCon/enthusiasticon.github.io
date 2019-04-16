@@ -44,7 +44,7 @@ Lindsey Kuper has also written about [how to write a timeline](http://compositio
 ## Mark in your calendar
 
 
-CfP is closing on [Sunday 21 April 2019](https://www.timeanddate.com/countdown/launch?iso=20190421T2355&p0=37&msg=EnthusiastiCon+2019+CfP&ud=1&font=cursive)!
+CfP is closing on [Sunday 21 April 2019 at 23:55](https://www.timeanddate.com/countdown/launch?iso=20190421T2355&p0=37&msg=EnthusiastiCon+2019+CfP&ud=1&font=cursive)!
 The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
 Selection notification will be sent out the following week.
 
