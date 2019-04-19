@@ -105,5 +105,6 @@ Sign up for our mailing list for updates:
 <!--End mc_embed_signup-->
 
 If you happen to have any questions, you can reach us at [info@enthusiasticon.de](mailto:info@enthusiasticon.de).
+Also, follow us on [twitter](https://twitter.com/enthusiasticon_).
 
 </div>
