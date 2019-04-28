@@ -5,6 +5,8 @@ subtitle: Call for Proposals
 permalink: /cfp/
 ---
 
+**The Call for Proposals has closed! This is here only for reference on things like how we do selection, ownership, and the FAQs.**
+
 EnthusiastiCon is back in 2019 and needs **you**!
 We are looking for people who like to share their passion for technology.
 Be it a project you are having fun with, a fascinating bug you solved or the story of how you learned something special.
@@ -16,8 +18,6 @@ Regardless of your profession or background, if you are dealing with hardware, s
 If you have been doing this for 20 years or just picked it up, please come to tell us about it!
 
 Anything related to technology or computing fits into the theme of this gathering.
-
-**The Call for Proposals is open!**
 
 We want to encourage you to submit a talk:
 

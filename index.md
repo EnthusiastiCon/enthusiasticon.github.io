@@ -11,10 +11,9 @@ We're hoping that wonderful people will join us to share their enthusiasm with u
 
 ## Call for Proposals
 
-The Call for Proposals is **open**.
-Please go ahead and submit a talk proposal [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
-CfP is closing on ~~Sunday 21 April 2019 at 23:55~~ The CFP was extended to [Sunday 28 April 2019 at 23:55](https://www.timeanddate.com/countdown/launch?iso=20190428T2355&p0=37&msg=EnthusiastiCon+2019+CfP&ud=1&font=cursive)!
-You can find out more [here](/cfp).
+The Call for Proposals has closed!
+We're in the process of reviewing (for more information please see "Goals and the Way to Selection" on the [CfP page](/cfp)).
+In the meantime you can enjoy some of the 2018 talks on [YouTube](https://www.youtube.com/channel/UCysZMezyfn6QuDPNlbl6jHQ/videos).
 
 ## The Plan
 
