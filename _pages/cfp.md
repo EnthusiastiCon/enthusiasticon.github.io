@@ -26,8 +26,6 @@ Think of this event like a friendly meetup where you can share at eye level.
 * if you are part of an underrepresented group in technology.
 * if you hesitated submitting to other conferences, because you have the feeling that you are less qualified or that you have nothing to contribute.
 
-**The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!**
-
 ## Hints and advice
 
 * If you would like to submit a proposal, but still need to come up with a topic, consider [this guide](https://www.deconstructconf.com/blog/how-to-choose-a-talk-topic).
@@ -38,14 +36,11 @@ This is why we're asking for a proposed timeline.
 * The folk from StarCon have prepared an [example proposal](https://starcon.io/cfp/#abstract) to illustrate what an abstract and timeline could look like.
 Lindsey Kuper has also written about [how to write a timeline](http://composition.al/blog/2017/06/30/how-to-write-a-timeline-for-a-bangbangcon-talk-proposal/).
 
-**The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!**
-
 
 ## Mark in your calendar
 
 
 CfP is closing on ~~Sunday 21 April 2019 at 23:55~~ The CFP was extended to [Sunday 28 April 2019 at 23:55](https://www.timeanddate.com/countdown/launch?iso=20190428T2355&p0=37&msg=EnthusiastiCon+2019+CfP&ud=1&font=cursive)!
-The CfP form is [here](https://forms.gle/g6tCLBmqyvWQ5MFr8)!
 Selection notification will be sent out the following week.
 
 ## Goals and the Way to Selection
