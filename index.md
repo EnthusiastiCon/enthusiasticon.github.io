@@ -9,18 +9,14 @@ We will talk about what excites us the most about programming — the strange, t
 
 We're hoping that wonderful people will join us to share their enthusiasm with us or listen to what makes fellow programmers beam with joy about our craft.
 
-## Call for Proposals
-
-The Call for Proposals has closed!
-We're in the process of reviewing (for more information please see "Goals and the Way to Selection" on the [CfP page](/cfp)).
-In the meantime you can enjoy some of the 2018 talks on [YouTube](https://www.youtube.com/channel/UCysZMezyfn6QuDPNlbl6jHQ/videos).
-
 ## The Plan
 
 EnthusiastiCon will be held on **May 25 & 26, 2019** in Berlin.
-Saturday will be a day full of talks at ThoughtWorks.
+Saturday will be a day full of [talks](/talks) at ThoughtWorks.
 For Sunday we're at an open space for sharing and collaboration with Co.up.
 Find more information on the venues [here](/venue).
+
+You can enjoy some of the 2018 talks on [YouTube](https://www.youtube.com/channel/UCysZMezyfn6QuDPNlbl6jHQ/videos)!
 
 ## Who Can Attend
 
@@ -36,14 +32,14 @@ Check here soon for how to register.
 This day will be a day full of [talks](/talks).
 You can find the programme [here](/programme).
 
-Please register [when registration opens]().
+Please register for Saturday [here](https://www.eventbrite.com/e/enthusiasticon-2019-saturday-talks-tickets-61524400137).
 We have room for up to 100 people at ThoughtWorks.
 
 ### Sunday -- Open Sessions
 
 Sunday depends significantly on all of us, as we will do this in an open/barcamp style, so we don't know what we'll get up to either.
 Discussion rounds, tutoring, meditation, dancing, everything is possible.
-Please register [when registration opens]().
+Please register for Sunday [here](https://www.eventbrite.com/e/enthusiasticon-2019-sunday-open-sessions-tickets-61527243642).
 We have room for up to 50 people at Co.up.
 
 ## Our Sponsors for 2019

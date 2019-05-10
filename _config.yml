@@ -27,6 +27,12 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
+  - title: Speakers
+    url: /speakers/
+    desc: Find our speakers here!
+  - title: Talks
+    url: /talks/
+    desc: Find our talks here!
   - title: Venue
     url: /venue/
     desc: Come here.
