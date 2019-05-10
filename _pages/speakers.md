@@ -134,6 +134,15 @@ fascinated by all forms of esoteric computing, and would love to hear
 about whatever weird thing you've been working with lately.
 
 
+### Tamas Kadar
+
+[💩.la?!? the fascinating history and current state of IDNs!!](/talks#la-the-fascinating-history-and-current-state-of-idns)
+
+Tamas is a generalist working as a freelance consultant, automating all
+the things. He's really into writing lately, and loves the world's most
+pointless drink, a decaf latte.
+
+
 ### Veit Heller
 [Abstractions! How do I even?](/talks#abstractions-how-do-i-even)
 

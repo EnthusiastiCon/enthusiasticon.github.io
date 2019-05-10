@@ -127,6 +127,7 @@ engine Unity. Through this contribution, I hope to share some of the
 excitements and possibilities lo-fi Augmented Reality offers and how
 you can get started.
 
+
 ### A shell that shouts at you
 
 [Jan-Erik Rediger](/speakers#jan-erik-rediger)
@@ -144,6 +145,7 @@ This talk will give you a quick tour through parts of Linux behavior
 you will probably not need too often and encourage you to occasionally
 give even your silliest ideas a go (as even those can teach you a
 lot).  This talk will NOT involve shouting on stage.
+
 
 ### The Wikidata Query Interface: The world's knowledge at your fingertips
 
@@ -196,6 +198,21 @@ and fascinating features, and has spawned a family of similar
 languages. In "An Introduction to APL", I hope to introduce you to
 this language, make an example less intimidating, and show you some of
 the surrounding, modern-day culture.
+
+### 💩.la?!? the fascinating history and current state of IDNs!!
+
+[Tamas Kadar](/speakers#tamas-kadar)
+
+When the World Wide Web launched in 1991, all the domain names on the
+internet were limited to letters, numbers and dashes. Which was a good
+start, sure, but what about other languages? In 1996, the first proposal
+for Internationalization of Domain Names were published. The next years
+were full of experiments, refinements, and eventually we'd arrive at
+what we have today: being able to register мiсrоsoft.com to phish people
+and 💩.la for vanity. But also, a lot of countries and cultures are now
+able to have domains in their own languages. How did we get here? Where
+are we now? And how does punycode work, anyway?
+
 
 ### Abstractions! How do I even?
 
