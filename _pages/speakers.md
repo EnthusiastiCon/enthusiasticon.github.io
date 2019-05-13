@@ -116,6 +116,17 @@ it. He loves sharing his knowledge and thinks that Wikidata and Open
 Data in general can be a very empowering tool for everyone.
 
 
+### Lucas Werkmeister
+
+[LilyPond: programming beautiful musical scores](/talks#lilypond-programming-beautiful-musical-scores)
+
+Lucas is a software developer at Wikimedia Deutschland, where he works
+on the software for Wikidata, a free knowledge database. In his spare
+time, he works on some projects (mostly Wikimedia-related), neglects
+too many others, plays the piano, and transcribes public-domain scores
+for LilyPond as a way to relax.
+
+
 ### Max Hallinan
 
 [Start With Just a Few Things](/talks#start-with-just-a-few-things)
@@ -132,6 +143,15 @@ phoebe has bounced around a number of different software engineering
 jobs, and is now currently working in security research. she is
 fascinated by all forms of esoteric computing, and would love to hear
 about whatever weird thing you've been working with lately.
+
+
+### Tamas Kadar
+
+[💩.la?!? the fascinating history and current state of IDNs!!](/talks#la-the-fascinating-history-and-current-state-of-idns)
+
+Tamas is a generalist working as a freelance consultant, automating all
+the things. He's really into writing lately, and loves the world's most
+pointless drink, a decaf latte.
 
 
 ### Veit Heller
