@@ -171,6 +171,18 @@ party (or gender, or age, ...). An interactive timeline of politicians
 who became federal ministers. Handball player nick names...  (Almost)
 everything is possible with Wikidata!
 
+
+### LilyPond: programming beautiful musical scores
+
+[Lucas Werkmeister](/speakers#lucas-werkmeister)
+
+LilyPond is a musical typesetting program. While it aims to produce
+beautiful scores by default, its output is also extensively
+configurable and programmable. This makes it an attractive hobby for
+people at the intersection of programming and music, some of whom I
+hope to captivate with this talk.
+
+
 ### Start With Just a Few Things
 
 [Max Hallinan](/speakers#max-hallinan)
