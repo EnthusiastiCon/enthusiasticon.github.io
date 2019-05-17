@@ -58,6 +58,12 @@ We have room for up to 50 people at Co.up.
   </a>
 </div>
 
+<div class="gridify">
+  <a href="https://bitcrowd.net" target="_blank">
+    <img alt="logo bitcrowd" title="bitcrowd - our speaker/talk practice host" src="{{ site.baseurl}}/assets/img/logo_bitcrowd.jpg">
+  </a>
+</div>
+
 {:/}
 
 ### Our Hosts
@@ -66,13 +72,13 @@ We have room for up to 50 people at Co.up.
 
 <div class="gridify">
   <a href="https://www.thoughtworks.com/events" target="_blank">
-    <img alt="logo thoughtworks" title="ThoughtsWorks" src="{{ site.baseurl}}/assets/img/logo_tw.png">
+    <img alt="logo thoughtworks" title="ThoughtsWorks - our talk host" src="{{ site.baseurl}}/assets/img/logo_tw.png">
   </a>
 </div>
 
 <div class="gridify">
   <a href=http://co-up.de/events.html target="_blank">
-    <img alt="logo co.up"  title="Co.up" src="{{ site.baseurl}}/assets/img/logo_coup.png">
+    <img alt="logo co.up"  title="Co.up - our open session host" src="{{ site.baseurl}}/assets/img/logo_coup.png">
   </a>
 </div>
 
