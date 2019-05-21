@@ -7,6 +7,19 @@ permalink: /speakers/
 
 <div class="pretty-links">
 
+### Kiwako Sakamoto (Opening Speaker)
+
+[Tech for Social Good: #realtalk](/talks#tech-for-social-good-realtalk)
+
+Kiwako is a data scientist who was part of the World Bank's first data
+scientist team and later served as the first data scientist at the
+World Bank's research department in Washington, DC. She was more
+recently the data science lead for the ambitious and controversial art
+project, DAU. She taught herself programming while working for a
+particle astrophysics project, IceCube, after dropping out of
+economics graduate school. She is happy about her choice and hasn't
+looked back since.
+
 ### Adam Borowski
 
 [Writing code at the speed of thought! Or voice! Or dance?](/talks#writing-code-at-the-speed-of-thought-or-voice-or-dance)
@@ -103,7 +116,6 @@ Rust community since 2014.
 He coached at Rust workshops & runs conferences in Europe.
 To get away from computers he recently picked up scuba diving to see the
 world under water.
-
 
 ### Knut Hühne
 
