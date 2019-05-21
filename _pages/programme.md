@@ -5,16 +5,13 @@ subtitle: Programme
 permalink: /programme/
 ---
 
-We'll be listing the programme very soon.
-
-<!--
 Here's the programme and speaker line-up (TBC):
 
 | 09:00 - 11:15 | **Arrival & Keynote**                                                                 |
 |--------------:|:--------------------------------------------------------------------------------------|
 | 09:00         | Open Doors, registration, draw your own badge, and coffee                             |
 | 10:00         | Welcome announcements                                                                 |
-| 10:15         | |
+| 10:15         | Opening Talk: [Tech for Social Good: #realtalk](/talks#tech-for-social-good-realtalk) |
 | 11:00         | Break                                                                                 |
 
 | 11:15 - 13:15 | **Block 1**                                                                           |
@@ -48,4 +45,3 @@ Here's the programme and speaker line-up (TBC):
 |               | ... |
 |               | ... |
 | 16:15         | Closing remarks and goodbye                                                           |
--->
