@@ -11,7 +11,7 @@ permalink: /talks/
 
 ### Tech for Social Good: #realtalk
 
-[Kiwako Sakamoto](/speaker#kiwako-sakamoto)
+[Kiwako Sakamoto](/speakers#kiwako-sakamoto)
 
 With increasing interest in ethical and social issues in tech, many
 technologists are exploring how they can contribute to social good. In
