@@ -29,16 +29,16 @@ navigation:
     desc: Learn about us
   - title: Speakers
     url: /speakers/
-    desc: Find our speakers here!
+    desc: Find Saturday's speakers here!
   - title: Talks
     url: /talks/
-    desc: Find our talks here!
+    desc: Find Saturday's talks here!
   - title: Programme
     url: /programme/
-    desc: The programme for Saturday
+    desc: Find Saturday's programme here!
   - title: Venue
     url: /venue/
-    desc: Come here.
+    desc: Come here
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct
