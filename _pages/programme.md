@@ -1,9 +1,9 @@
-----------  -----------
+---
 layout:     page
 title:      Programme
 subtitle:   Programme
 permalink:  /programme/
-----------  -----------
+---
 
 Here's the programme and speaker line-up (TBC):
 
