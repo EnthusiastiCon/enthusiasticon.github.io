@@ -11,8 +11,8 @@ Here's the programme and speaker line-up (TBC):
 | ------------: | :------------------------------------------------------------------------------------ |
 |         09:00 | Open Doors, registration, draw your own badge, and coffee                             |
 |         10:00 | Welcome announcements                                                                 |
-|         10:15 | Opening Talk: [Tech for Social Good: #realtalk](/talks#tech-for-social-good-realtalk) |
-|         11:00 | Break                                                                                 |
+|         10:15 | The opening talk will be given by [Kiwako Sakamoto](/speakers#kiwako-sakamoto)        |
+|         10:50 | Break                                                                                 |
 
 | 11:15 - 13:15 | **Block 1**                                                                                                                |
 | ------------: | :------------------------------------------------------------------------------------------------------------------------- |
