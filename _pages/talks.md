@@ -256,11 +256,11 @@ talk, we’re going to see what exciting, funny, sad, and mind-boggling
 insights some philosophers and authors have for us, and how we can add
 those to our mindset to build better abstractions, without having to
 read thousands of pages full of labyrinthine sentences that you need a
-map and a PhD for<sub>1</sub>!
+map and a PhD for<sup>1</sup>!
 
 Ideally, you’d walk away from this talk inspired and intellectually
 tickled, though I won’t pass up on pure entertainment, either! If I
 can show you that thinking hard about abstractions can be fun rather
 than dull then I’ve fulfilled all of my goals!
 
-<sub>1</sub>: Though I’ll give you a reference/reading list at the end, if decyphering obscure texts is your sort of thing!
+<sup>1</sup>: Though I’ll give you a reference/reading list at the end, if decyphering obscure texts is your sort of thing!
