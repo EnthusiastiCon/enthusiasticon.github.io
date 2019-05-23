@@ -9,18 +9,7 @@ permalink: /talks/
 
 ## Opening Talk
 
-### Tech for Social Good: #realtalk
-
-[Kiwako Sakamoto](/speakers#kiwako-sakamoto)
-
-With increasing interest in ethical and social issues in tech, many
-technologists are exploring how they can contribute to social good. In
-this talk, I will go beyond over-simplified examples, and the blind
-assumption that all tech for social good is good.  I will draw
-examples from international development as well as interviews I
-conducted to demonstrate which factors to consider when you are
-critically evaluating projects to work on, and what makes a project
-successful (or not).
+The opening talk will be given by [Kiwako Sakamoto](/speakers#kiwako-sakamoto).
 
 ## Lightning Talks
 

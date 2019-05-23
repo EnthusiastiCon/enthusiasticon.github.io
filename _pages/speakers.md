@@ -9,8 +9,6 @@ permalink: /speakers/
 
 ### Kiwako Sakamoto (Opening Speaker)
 
-[Tech for Social Good: #realtalk](/talks#tech-for-social-good-realtalk)
-
 Kiwako is a data scientist who was part of the World Bank's first data
 scientist team and later served as the first data scientist at the
 World Bank's research department in Washington, DC. She was more
