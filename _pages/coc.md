@@ -16,6 +16,8 @@ All attendees, speakers, organizers and volunteers at EnthusiastiCon are require
 
 EnthusiastiCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or anything else. We do not tolerate harassment of conference participants in any form.
 
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, derisive comments regarding technical background, and unwelcome sexual attention.
+
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
 
 Please avoid making assumptions about people's pronouns. If you don't know what pronoun someone uses you can ask them or look at their name tag, where you may find their name and pronoun.  Otherwise please use their name rather than making an assumption about which pronoun to use.  [Here](https://lgbt.umd.edu/good-practices-names-and-pronouns) is a video if you'd like to know more about pronouns.
@@ -29,9 +31,9 @@ Thank you for helping make this a welcoming, friendly event for all.
 Contact information
 -------------------
 
-Please email us at [coc@enthusiasticon.de](mailto:coc@enthusiasticon.de) if you have any concerns about this Code of Conduct.
+During the conference we will have dedicated people who will be available to talk about anything relating to the code of conduct or attendees comfort and well being.
 
- During the conference we will have dedicated people who will be available to talk about anything relating to the code of conduct or attendees comfort and well being.  You can also email us during the conference or use the following form (anonymous, via [formspree.io](https://formspree.io)):
+Please email us at [coc@enthusiasticon.de](mailto:coc@enthusiasticon.de) if you have any concerns about this Code of Conduct. You can also email us during the conference or use the following form (anonymous, via [formspree.io](https://formspree.io)):
 
  <form action="https://formspree.io/coc@enthusiasticon.de" method="POST">
  <label for="code of conduct violation">Code of Conduct violation </label>
