@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title></title>
+<meta name="author" content="(f)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/reveal.css"/>
+
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/theme/white.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'http://cdn.jsdelivr.net/reveal.js/3.0.0/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+
+<section>
+<section id="slide-sec-1">
+<h2 id="orgf8e5d90"><span class="section-number-2">1</span> intro to apl</h2>
+<ul>
+<li>phoebe jenkins</li>
+<li>dog star some places online, @rats_god twitter</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-sec-2">
+<h2 id="org31662b1"><span class="section-number-2">2</span> about me</h2>
+<ul>
+<li>just an apl enthusiast, not a professional, not a representative</li>
+<li>started messing around with it because it was unlike anything else i'd used</li>
+<li>find it very fun and will try to convey that</li>
+<li>maybe you will find it fun too</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-sec-3">
+<h2 id="org8a05d72"><span class="section-number-2">3</span> some background</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+</section>
+<section id="slide-sec-3-1">
+<h3 id="org1479dce"><span class="section-number-3">3.1</span> what you might know</h3>
+<ul width="50%" height="50%">
+<li>a programming language</li>
+<li>terse</li>
+<li>old (1950s/1960s)</li>
+<li>funny characters</li>
+
+</ul>
+
+<div class="figure">
+<p><img src="./aplkb.jpg" alt="aplkb.jpg" />
+</p>
+</div>
+</section>
+<section id="slide-sec-3-2">
+<h3 id="org8c4c12e"><span class="section-number-3">3.2</span> what you might not know</h3>
+<ul width="30%" height="30%">
+<li>"a programming language"</li>
+<li>based on an alternative mathematical notation by Kenneth Iverson</li>
+<li>surprisingly modern features!</li>
+<li>still used!</li>
+<li>beloved by those who use it, afaik!</li>
+<li>similar to r, numpy (so i hear)</li>
+
+</ul>
+
+<div class="figure">
+<p><img src="./aplkbnew.jpg" alt="aplkbnew.jpg" />
+</p>
+</div>
+</section>
+<section id="slide-sec-3-3">
+<h3 id="org857f1fd"><span class="section-number-3">3.3</span> implementations</h3>
+<ul>
+<li>dyalog
+<ul>
+<li>leading, modern, proprietary, free</li>
+
+</ul></li>
+<li>gnu apl
+<ul>
+<li>open-source, behind times last i checked</li>
+
+</ul></li>
+<li>ngn/apl
+<ul>
+<li>open-source, modern, javascript</li>
+
+</ul></li>
+<li>NARS2000
+<ul>
+<li>experimental, windows, ???</li>
+
+</ul></li>
+<li>others
+<ul>
+<li>???</li>
+
+</ul></li>
+<li>will be focusing on dyalog in this presentation</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-sec-4">
+<h2 id="orgc4cff4a"><span class="section-number-2">4</span> demo</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+</section>
+<section id="slide-sec-4-1">
+<h3 id="orgf6cb233"><span class="section-number-3">4.1</span> prime number algorithm</h3>
+<p>
+z{(~⍺∊⍵)/⍺}{⍵∘.×⍵}z←1↓⍳100
+</p>
+
+<p>
+(huh?)
+</p>
+</section>
+<section id="slide-sec-4-2">
+<h3 id="org4e33020"><span class="section-number-3">4.2</span> dyalog demo</h3>
+<p>
+[ switch to dyalog ]
+</p>
+</section>
+<section id="slide-sec-4-3">
+<h3 id="orgea3d0f8"><span class="section-number-3">4.3</span> more features we didn't show!</h3>
+<ul>
+<li>tacit programming</li>
+<li>imperative programming</li>
+<li>declarative programming</li>
+<li>higher-order functions (aka operators/adverbs)</li>
+<li>recursion and anonymous recursion</li>
+<li>guards, try/catch</li>
+<li>parallel programming</li>
+<li>currying</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-sec-5">
+<h2 id="org548b3c3"><span class="section-number-2">5</span> larger culture</h2>
+<div class="outline-text-2" id="text-5">
+</div>
+</section>
+<section id="slide-sec-5-1">
+<h3 id="org0c5b1b9"><span class="section-number-3">5.1</span> related languages</h3>
+<ul>
+<li>j
+<ul>
+<li>more symbols</li>
+<li>focus on numerical programming</li>
+<li>tacit programming</li>
+
+</ul></li>
+<li>k
+<ul>
+<li>fewer symbols</li>
+<li>designed for speed</li>
+<li>more general-purpose</li>
+
+</ul></li>
+<li>both (mostly) use only ascii characters</li>
+
+</ul>
+</section>
+<section id="slide-sec-5-2">
+<h3 id="orgdcd2a8a"><span class="section-number-3">5.2</span> psychology</h3>
+<ul>
+<li>works really well in repl</li>
+<li>lots of languages claim this, i only felt this to be true for apl</li>
+<li>write complete, non-trivial programs without opening up a text editor</li>
+
+</ul>
+</section>
+<section id="slide-sec-5-3">
+<h3 id="org6b15a9c"><span class="section-number-3">5.3</span> psychology</h3>
+<ul>
+<li>'notation as a tool of thought'</li>
+<li>paper / lecture by kenneth iverson, 1979</li>
+<li>"By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems" A.N. Whitehead</li>
+<li>programming languages are languages, not just for communicating with computers, but other humans, ourselves in the future, ourselves in the present</li>
+<li>apl seeks to communicate ideas well, and make ideas easy to work with</li>
+
+</ul>
+</section>
+<section id="slide-sec-5-4">
+<h3 id="org33598b9"><span class="section-number-3">5.4</span> psychology</h3>
+<ul>
+<li>un-directed programming</li>
+<li>as written up by Aaron Hsu
+<ul>
+<li><a href="https://www.sacrideo.us">https://www.sacrideo.us</a></li>
+<li><a href="https://www.sacrideo.us/un-structured-programming/">https://www.sacrideo.us/un-structured-programming/</a></li>
+
+</ul></li>
+
+</ul>
+
+<div class="figure">
+<p><img src="./udp.png" alt="udp.png" />
+</p>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-sec-6">
+<h2 id="org8ec9c15"><span class="section-number-2">6</span> tryapl.org</h2>
+<ul>
+<li>tryapl.org: approachable in-browser repl</li>
+<li>the apl orchard: friendly chat room
+<ul>
+<li><a href="https://chat.stackexchange.com/rooms/52405/the-apl-orchard">https://chat.stackexchange.com/rooms/52405/the-apl-orchard</a></li>
+
+</ul></li>
+
+</ul>
+
+<p>
+(ok im done)
+</p>
+</section>
+</section>
+</div>
+</div>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/head.min.js"></script>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: false,
+progress: false,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>
