@@ -1,0 +1,147 @@
+\documentclass[aspectratio=169]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage[super]{nth}
+
+\beamertemplatenavigationsymbolsempty
+\setbeamertemplate{headline}[text line]{%
+  \parbox{0.3\linewidth}{%
+    \insertshortauthor%
+  }%
+  \hfill%
+  \parbox{0.3\linewidth}{%
+    \url{https://tinyurl.com/ec19-lilypond}%
+  }%
+  \hfill%
+  \raggedleft\insertframenumber/9%
+}
+
+\title{LilyPond}
+\author{Lucas Werkmeister}
+\date{EnthusiastiCon 2019}
+
+\lstset{basicstyle=\ttfamily}
+
+\begin{document}
+
+\begin{frame}[fragile]
+  \frametitle{LilyPond}
+
+  \begin{figure}
+    \lstinputlisting{title.ly}
+  \end{figure}
+  {\Huge$\Rightarrow$}
+  \begin{figure}
+    \lilypondfile{title.ly}
+  \end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Pitches}
+
+  \begin{figure}
+    \begin{lilypond}
+      \relative a {
+        a_\markup { \typewriter "a" }
+        b_\markup { \typewriter "b" }
+        c_\markup { \typewriter "c" }
+        d_\markup { \typewriter "d" }
+        e_\markup { \typewriter "e" }
+        f_\markup { \typewriter "f" }
+        g_\markup { \typewriter "g" }
+        a_\markup { \typewriter "a" }
+      }
+    \end{lilypond}
+  \end{figure}
+  \begin{figure}
+    \begin{lstlisting}
+\relative a { a b c d e f g a }
+    \end{lstlisting}
+  \end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Durations}
+  \begin{figure}
+    \lilypondfile{durations.ly}
+  \end{figure}
+  \begin{figure}
+    \lstinputlisting{durations.ly}
+  \end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Pitches}
+  \begin{figure}
+    \lilypondfile{pitches-octaves.ly}
+  \end{figure}
+  \begin{figure}
+    \lstinputlisting{pitches-octaves.ly}
+  \end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Pitches}
+  \begin{figure}
+    \lilypondfile{pitches-ises.ly}
+  \end{figure}
+  \begin{figure}
+    \lstinputlisting{pitches-ises.ly}
+  \end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Tweaks}
+  \begin{figure}
+    \lilypondfile{tweaks.ly}
+  \end{figure}
+  \begin{figure}
+    \lstinputlisting{tweaks.ly}
+  \end{figure}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Scheme}
+  \begin{figure}
+    \lilypondfile{scheme.ly}
+  \end{figure}
+  \begin{figure}
+    \lstinputlisting{scheme.ly}
+  \end{figure}
+\end{frame}
+
+{
+  \setbeamertemplate{footline}[text line]{%
+  \parbox{0.3\linewidth}{%
+    %\insertshortauthor%
+  }%
+  \hfill%
+  \parbox{0.3\linewidth}{%
+    %\url{https://tinyurl.com/ec19-lilypond}%
+  }%
+  \hfill%
+  \raggedleft\insertframenumber/9%
+  }
+  \begin{frame}[fragile]
+    \frametitle{Scheme}
+    \begin{figure}
+      \lstinputlisting[basicstyle=\tiny]{end.ly}
+    \end{figure}
+  \end{frame}
+}
+
+\begin{frame}
+  \frametitle{More information}
+  \begin{itemize}
+    \item \href{http://lilypond.org/doc/v2.18/Documentation/learning/}{LilyPond Learning Manual}
+    \item \href{http://lilypond.org/doc/v2.18/Documentation/notation/}{LilyPond Notation Manual}
+    \item \href{http://lsr.di.unimi.it/LSR/Browse}{LilyPond Snippet Repository}
+    \item \href{http://lilybin.com/}{lilybin.com}
+  \end{itemize}
+  \begin{figure}
+    \lilypondfile{end.ly}
+  \end{figure}
+\end{frame}
+
+\end{document}

@@ -20,4 +20,6 @@ We believe in [rubber ducking](https://en.wikipedia.org/wiki/Rubber_duck_debuggi
 The website is forked from [StarCon](https://github.com/StarConUW/) and inspired by !!con.
 Read: On the shoulders of giants.
 
+You can find the site for the 2019 edition [here](/2019)
+
 </div>
