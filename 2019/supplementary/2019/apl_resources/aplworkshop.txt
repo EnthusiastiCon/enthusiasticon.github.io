@@ -1,0 +1,116 @@
+f
+
+
+Table of Contents
+_________________
+
+1. apl chat room:
+2. #arrays channel on zulip:
+3. in-browser apl repl:
+4. where to get dyalog, to run apl locally:
+5. 'mastering dyalog apl' book
+6. aaron hsu's blog
+7. aaron hsu's talk about co-dfns, one way to structure large apl programs:
+8. 'array oriented functional programming' talk
+9. example of the co-dfns source code:
+10. examples of a more imperative apl code base:
+11. a paper about the apl dfn structure:
+12. some documentation about function trains/atops/hooks/forks in j:
+13. some documentation about function trains/atops/hooks/forks in apl:
+14. archive of papers/essays on array languages (apl, j, k mostly):
+
+
+notes and external references from running apl workshop
+
+
+1 apl chat room:
+================
+
+  - <https://chat.stackexchange.com/rooms/52405/the-apl-orchard>
+
+
+2 #arrays channel on zulip:
+===========================
+
+  - <https://recurse.zulipchat.com/#narrow/stream/181825-arrays>
+
+
+3 in-browser apl repl:
+======================
+
+  - <https://tryapl.org/>
+
+
+4 where to get dyalog, to run apl locally:
+==========================================
+
+  - <https://www.dyalog.com/download-zone.htm>
+    - instant download for raspberry pi
+    - apply for 'personal license' for local version
+    - easy process, 1-2 days, might go to your spam folder
+
+
+5 'mastering dyalog apl' book
+=============================
+
+  - does not really help you master apl, but can be a good reference for
+    the darker corners of dyalog
+  - <https://www.dyalog.com/mastering-dyalog-apl.htm>
+  - <https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf>
+
+
+6 aaron hsu's blog
+==================
+
+  - <https://www.sacrideo.us/>
+
+
+7 aaron hsu's talk about co-dfns, one way to structure large apl programs:
+==========================================================================
+
+  - <https://www.youtube.com/watch?v=gcUWTa16Jc0>
+
+
+8 'array oriented functional programming' talk
+==============================================
+
+  - <https://www.youtube.com/watch?v=Gsj_7tFtODk>
+
+
+9 example of the co-dfns source code:
+=====================================
+
+  - <https://github.com/Co-dfns/Co-dfns/blob/master/cmp/d.cd>
+
+
+10 examples of a more imperative apl code base:
+===============================================
+
+  - 'header' style definitions
+  - <https://github.com/emacsmirror/dyalog-mode/blob/master/Emacs.apl>
+  - <https://github.com/Dyalog/aplssh>
+
+
+11 a paper about the apl dfn structure:
+=======================================
+
+  - <https://www.dyalog.com/uploads/documents/Papers/dfns.pdf>
+
+
+12 some documentation about function trains/atops/hooks/forks in j:
+===================================================================
+
+  - <https://www.jsoftware.com/help/learning/09.htm>
+
+
+13 some documentation about function trains/atops/hooks/forks in apl:
+=====================================================================
+
+  - <http://help.dyalog.com/14.1/Content/Language/Introduction/Trains.htm>
+  - <https://dfns.dyalog.com/n_tacit.htm>
+
+
+14 archive of papers/essays on array languages (apl, j, k mostly):
+==================================================================
+
+  - <https://www.jsoftware.com/papers/>

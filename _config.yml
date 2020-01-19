@@ -27,6 +27,9 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
+  - title: Call for proposals
+    url: /cfp/
+    desc: Submit a talk proposal
   - title: Speakers
     url: /speakers/
     desc: Find Saturday's speakers here!
