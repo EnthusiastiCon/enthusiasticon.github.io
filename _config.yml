@@ -30,18 +30,9 @@ navigation:
   - title: Call for proposals
     url: /cfp/
     desc: Submit a talk proposal
-  - title: Speakers
-    url: /speakers/
-    desc: Find Saturday's speakers here!
-  - title: Talks
-    url: /talks/
-    desc: Find Saturday's talks here!
   - title: Programme
     url: /programme/
     desc: Find Saturday's programme here!
-  - title: Venue
-    url: /venue/
-    desc: Come here
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct

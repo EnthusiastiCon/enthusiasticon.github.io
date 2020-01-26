@@ -50,12 +50,12 @@
 
   &:hover {
     text-decoration: none;
-    color: $link-color;
+    color: $theme-color-light;
     background-color: #596d82;
   }
 
   &.current {
-    background: $link-color;
+    background: $theme-color-light;
     color: #3d4654;
   }
 }
@@ -162,7 +162,7 @@
 }
 
 .site-header, .site-footer {
-  color: #f37223;
+  color: $theme-color-light;
 }
 /*
   a, .site-source a {
