@@ -32,12 +32,12 @@ $body-color:                $gray-dark;
 // GLOBALS - Theme color ---------------
 $theme-color-light:         $light-biege;
 $theme-color-dark:          $dark-blue;
-$theme-color-less-dark:     lighten($dark-blue, 45%);
+$theme-color-less-dark:     lighten($dark-blue, 15%);
 
 // GLOBALS - LINKS ------------------
-$link-color:                $theme-color-light;
+$link-color:                $theme-color-dark;
 $link-decoration:           none;
-$link-hover-color:          $dark-blue;
+$link-hover-color:          $theme-color-less-dark;
 $link-hover-decoration:     underline;
 
 // GLOBALS - SPACERS ------------------

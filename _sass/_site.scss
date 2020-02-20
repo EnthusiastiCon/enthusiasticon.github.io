@@ -47,11 +47,12 @@
   margin-right: $spacer0;
   transition: background 0.1s ease-out;
   white-space: nowrap;
+  color: $theme-color-light;
 
   &:hover {
     text-decoration: none;
     color: $theme-color-light;
-    background-color: $theme-color-dark;
+    background-color: $theme-color-less-dark;
   }
 
   &.current {
@@ -59,6 +60,19 @@
     color: $theme-color-dark;
   }
 }
+
+.nav-link {
+  color: $theme-color-light;
+
+  &.current {
+    background: $theme-color-light;
+    color: $theme-color-dark;
+  }
+}
+
+
+
+
 
 // SITE FOOTER ====================================
 
