@@ -51,12 +51,12 @@
   &:hover {
     text-decoration: none;
     color: $theme-color-light;
-    background-color: #596d82;
+    background-color: $theme-color-dark;
   }
 
   &.current {
     background: $theme-color-light;
-    color: #3d4654;
+    color: $theme-color-dark;
   }
 }
 
@@ -156,8 +156,7 @@
 // CUSTOM CSS ================
 
 .site-header, .site-footer {
-  // background: #3d4654;
-  background: #495d72;
+  background: $theme-color-dark;
   width: 100%;
 }
 
@@ -223,17 +222,17 @@
 }
 
 .pretty-links a:hover {
-  color: #3d4654;
+  color: $theme-color-dark;
 }
 
 // speakers page
 
 #keynotes {
-  border-bottom: 3px solid #fbdd5d;
+  border-bottom: 3px solid $yellow;
   border-bottom-style: double;
 
   ~ h2 {
-    border-bottom: 3px solid #fbdd5d;
+    border-bottom: 3px solid $yellow;
     border-bottom-style: double;
   }
 
