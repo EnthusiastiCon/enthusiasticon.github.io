@@ -3,7 +3,7 @@
 # Site settings
 title: EnthusiastiCon               # used for the html title of every page
 desc: >
-  A software engineering conference taking place in Berlin this May!
+  A computing conference taking place in Berlin this June!
 
 url: http://enthusiasticon.de      # put your website hosting url here
 baseurl: ''     # the subpath of your site, e.g. /blog
