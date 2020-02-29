@@ -47,18 +47,32 @@
   margin-right: $spacer0;
   transition: background 0.1s ease-out;
   white-space: nowrap;
+  color: $theme-color-light;
 
   &:hover {
     text-decoration: none;
-    color: $link-color;
-    background-color: #596d82;
+    color: $theme-color-light;
+    background-color: $theme-color-less-dark;
   }
 
   &.current {
-    background: $link-color;
-    color: #3d4654;
+    background: $theme-color-light;
+    color: $theme-color-dark;
   }
 }
+
+.nav-link {
+  color: $theme-color-light;
+
+  &.current {
+    background: $theme-color-light;
+    color: $theme-color-dark;
+  }
+}
+
+
+
+
 
 // SITE FOOTER ====================================
 
@@ -156,13 +170,12 @@
 // CUSTOM CSS ================
 
 .site-header, .site-footer {
-  // background: #3d4654;
-  background: #495d72;
+  background: $theme-color-dark;
   width: 100%;
 }
 
 .site-header, .site-footer {
-  color: #f37223;
+  color: $theme-color-light;
 }
 /*
   a, .site-source a {
@@ -223,17 +236,17 @@
 }
 
 .pretty-links a:hover {
-  color: #3d4654;
+  color: $theme-color-dark;
 }
 
 // speakers page
 
 #keynotes {
-  border-bottom: 3px solid #fbdd5d;
+  border-bottom: 3px solid $yellow;
   border-bottom-style: double;
 
   ~ h2 {
-    border-bottom: 3px solid #fbdd5d;
+    border-bottom: 3px solid $yellow;
     border-bottom-style: double;
   }
 

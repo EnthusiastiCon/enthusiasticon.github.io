@@ -9,6 +9,13 @@ We will talk about what excites us the most about programming — the strange, t
 
 We're hoping that wonderful people will join us to share their enthusiasm with us or listen to what makes fellow programmers beam with joy about our craft.
 
+
+## The Plan
+
+EnthusiastiCon will be held on <b>June 6th &amp; 7th, 2020</b> at Wooga in Berlin.
+Saturday will be a day full of talks and Sunday will be workshops and space for collaboration.
+
+
 ## Who Can Attend
 
 This conference is open to everyone! Attendance will be free.
