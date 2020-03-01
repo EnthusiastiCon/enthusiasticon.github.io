@@ -41,7 +41,7 @@ Your proposal will go through the following stages:
 
 Should your talk be accepted, we would like to record (audio/video) and publish your talk online under a [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
-We will ask for you consent to film when you submit your proposal, this will not be seen by the reviewers when making their decision.  You can change change your mind about this after your talk is accepted.
+We will ask for your consent to film when you submit your proposal.  This will not be seen by the reviewers when making their decision and you can change your mind after your talk is accepted.  Before we publish the recordings, we will share yours with you and ask for your consent to publish.
 
 We ask that you make any materials used available under a CC BY-SA creative commons license.  You will retain full ownership of any materials used in your talk (slide deck, handouts etc).
 
@@ -63,4 +63,4 @@ We simply don’t have the resources to offer this to everyone at a quality we f
 
 **I have other questions! Who do I talk to?**
 
-Please [email us](mailto:info@enthusiasticon.de) with any other questions!
+Please email us at [info@enthusiasticon.de](mailto:info@enthusiasticon.de) with any other questions! If you have any concerns to share with out CfP coordinator, you can reach them at [cfp2020@enthusiasticon.de](mailto:cfp2020@enthusiasticon.de)
