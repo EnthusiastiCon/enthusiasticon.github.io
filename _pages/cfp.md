@@ -48,6 +48,11 @@ We ask that you make any materials used available under a CC BY-SA creative comm
 
 ## FAQ
 
+**What if my talk doesn't get accepted?**
+
+Fear not!
+To thank you for submitting a talk, you will be granted access to early registration.
+
 **Should I remove identifying information from my abstract/ timeline?**
 
 No - write the abstract as you would like it to appear if your talk is selected.  Our CfP coordinator will anonymize your application before the review group see it.
@@ -58,8 +63,7 @@ Yes, but please don’t submit more than two.  If both your talks are accepted, 
 
 **Can I get feedback on my application?**
 
-Unfortunately, we will not be able to offer this.
-We simply don’t have the resources to offer this to everyone at a quality we feel is appropriate.
+We can not promise this, as it depends on the volume of the submissions and the time we have, but our goal is to share constructive feedback with you in case your talk was not accepted. After all EnthusiastiCon is about learning cool new things, and submitting to a conference is definitive among those.
 
 **I have other questions! Who do I talk to?**
 
