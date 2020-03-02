@@ -63,4 +63,4 @@ We simply don’t have the resources to offer this to everyone at a quality we f
 
 **I have other questions! Who do I talk to?**
 
-Please email us at [info@enthusiasticon.de](mailto:info@enthusiasticon.de) with any other questions! If you have any concerns to share with out CfP coordinator, you can reach them at [cfp2020@enthusiasticon.de](mailto:cfp2020@enthusiasticon.de)
+Please email us at [info@enthusiasticon.de](mailto:info@enthusiasticon.de) with any other questions! If you have any concerns to share with our CfP coordinator, you can reach them at [cfp2020@enthusiasticon.de](mailto:cfp2020@enthusiasticon.de)
