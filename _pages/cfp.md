@@ -7,7 +7,7 @@ permalink: /cfp/
 
 Our call for proposals is now open!  To submit a proposal please fill out [this form](https://pretalx.enthusiasticon.de/enthusiasticon-2020/cfp).
 
-**The deadline for applications is the 19th April 2020**.
+**The deadline for applications is the 30th April 2020**.
 
 We want to hear about what you are enthusiastic about in the computing world - whether it's a project you are having fun with, a fascinating bug you solved or the story of how you learned something special.  Whether you want to talk about hardware or software, and regardless of your background or profession.
 
@@ -16,7 +16,7 @@ We especially encourage you to submit a talk if:
 * you are part of an underrepresented group in technology.
 * you hesitated submitting to other conferences, because you have the feeling that you are less qualified or that you have nothing to contribute.
 
-All talks will be ten minutes long; this amount of time is easy to underestimate, or indeed overestimate.  This is why we ask for a proposed **timeline**.
+All talks will be 10 minutes long; this amount of time is easy to underestimate, or indeed overestimate.  This is why we ask for a proposed **timeline**.
 
 
 ## Resources
@@ -47,6 +47,10 @@ We ask that you make any materials used available under a CC BY-SA creative comm
 
 
 ## FAQ
+
+**When will I hear back?**
+
+We'll get back to you by May 6th.
 
 **What if my talk doesn't get accepted?**
 
