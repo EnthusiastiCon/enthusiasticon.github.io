@@ -5,15 +5,14 @@ layout: default
 <div class="lead pretty-links">
 
 EnthusiastiCon is a conference for the programming community.
-We will talk about what excites us the most about programming — the strange, the wonderful, and the clever solutions to unusual problems — over a weekend.
+We will talk about what excites us the most about programming — the strange, the wonderful, and the clever solutions to unusual problems.
 
 We're hoping that wonderful people will join us to share their enthusiasm with us or listen to what makes fellow programmers beam with joy about our craft.
 
 
 ## The Plan
 
-EnthusiastiCon will be held on <b>June 6th &amp; 7th, 2020</b> at Wooga in Berlin.
-Saturday will be a day full of talks and Sunday will be workshops and space for collaboration.
+EnthusiastiCon will be held **remotely** on <b>June 6th 2020</b> for a day of 10 minute talks.
 
 
 ## Who Can Attend
@@ -21,10 +20,6 @@ Saturday will be a day full of talks and Sunday will be workshops and space for 
 This conference is open to everyone! Attendance will be free.
 
 Registration will be open closer to the event.
-
-## Our Sponsors for 2020
-
-We will announce our 2020 sponsors soon.  If you'd like to sponsor us, please get in touch at [info@enthusiasticon.de](mailto:info@enthusiasticon.de)
 
 ## Keep me posted!
 
