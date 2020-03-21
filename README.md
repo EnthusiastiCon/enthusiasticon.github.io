@@ -9,6 +9,9 @@ To run this locally:
 - run `bundle install` (you need ruby 2.1+ I _think_)
 - run `bundle exec jekyll serve` to view the website at localhost:4000
 
+Alternatively, you can run locally using [nix](https://nixos.org/nix/). Simply run: `nix-shell` to serve the site at localhost:4000. If the dependencies have been updated, it may be necessary to run `nix-shell -p bundix --run 'bundix'` to update gemset.nix.
+
+
 ---
 
 ## Options
