@@ -36,7 +36,7 @@ $theme-color-less-dark:     lighten($dark-blue, 15%);
 
 // GLOBALS - LINKS ------------------
 $link-color:                $theme-color-dark;
-$link-decoration:           none;
+$link-decoration:           underline;
 $link-hover-color:          $theme-color-less-dark;
 $link-hover-decoration:     underline;
 
