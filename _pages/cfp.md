@@ -5,7 +5,13 @@ subtitle: Call for Proposals
 permalink: /cfp/
 ---
 
-Our call for proposals is now open!  To submit a proposal please fill out [this form](https://pretalx.enthusiasticon.de/enthusiasticon-2020/cfp).
+Our call for proposals is now open!  To submit a proposal please fill out the form:
+
+{::nomarkdown}
+<div class="center">
+<a href=https://pretalx.enthusiasticon.de/enthusiasticon-2020/cfp class="button">Submit Proposal</a>
+</div>
+{:/}
 
 **The deadline for applications is the 30th April 2020**.
 
