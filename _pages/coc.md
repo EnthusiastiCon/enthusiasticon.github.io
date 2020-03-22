@@ -4,8 +4,6 @@ title: Code of Conduct
 permalink: /coc/
 ---
 
-<div class="pretty-links">
-
 # Code of Conduct
 
 We value the participation of each member of the community and want all attendees feel safe and welcome.
@@ -48,4 +46,3 @@ License
 
 This Code of Conduct was mostly copied from the [!!Con Code of Conduct](http://bangbangcon.com/conduct.html) which is under a [Creative Commons Zero](http://creativecommons.org/about/cc0) license. It was forked from the [PyCon 2013 Code of Conduct](https://us.pycon.org/2013/about/code-of-conduct/), which is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/), and which itself was forked from [an example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and available under a [Creative Commons Zero](http://creativecommons.org/about/cc0) license.
 
-</div>

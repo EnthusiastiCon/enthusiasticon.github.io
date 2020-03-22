@@ -48,9 +48,9 @@
   transition: background 0.1s ease-out;
   white-space: nowrap;
   color: $theme-color-light;
+  text-decoration: none;
 
   &:hover {
-    text-decoration: none;
     color: $theme-color-light;
     background-color: $theme-color-less-dark;
   }
@@ -230,14 +230,6 @@
 }
 
 @media (min-width: 768px) { .lead { font-size: 1.2rem } }
-
-.pretty-links a  {
-  background-image: none;
-}
-
-.pretty-links a:hover {
-  color: $theme-color-dark;
-}
 
 // speakers page
 
