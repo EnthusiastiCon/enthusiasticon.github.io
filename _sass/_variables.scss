@@ -31,6 +31,7 @@ $body-color:                $gray-dark;
 
 // GLOBALS - Theme color ---------------
 $theme-color-light:         $light-biege;
+$theme-color-less-light:    darken($theme-color-light, 15%);
 $theme-color-dark:          $dark-blue;
 $theme-color-less-dark:     lighten($dark-blue, 15%);
 
