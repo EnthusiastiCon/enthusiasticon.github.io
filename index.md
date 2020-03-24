@@ -21,6 +21,10 @@ This conference is open to everyone! Attendance will be free.
 
 Registration will be open closer to the event.
 
+## Who Will Speak
+
+Maybe you? Our [call for proposals](/cfp/) is open until 30th April 2020!
+
 ## Keep me posted!
 
 Sign up for our mailing list for updates:
