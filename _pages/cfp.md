@@ -33,7 +33,7 @@ It considers full length talks but might still be a source of inspiration.
 * Lindsey Kuper has written [a great guide to writing a timeline](http://composition.al/blog/2017/06/30/how-to-write-a-timeline-for-a-bangbangcon-talk-proposal/).
 
 
-## Our selection process
+## Our Selection Process
 
 When reviewing and selecting talks we would like to avoid biases and keep the process as fair as possible.
 

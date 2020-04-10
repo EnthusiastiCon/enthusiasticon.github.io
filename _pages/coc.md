@@ -26,7 +26,7 @@ Attendees violating these rules may be asked to leave the conference at the sole
 
 Thank you for helping make this a welcoming, friendly event for all.
 
-Contact information
+Contact Information
 -------------------
 
 During the conference we will have dedicated people who will be available to talk about anything relating to the code of conduct or attendees comfort and well being.
