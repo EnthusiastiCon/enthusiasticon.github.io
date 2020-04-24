@@ -13,7 +13,7 @@ Our call for proposals is now open!  To submit a proposal please fill out the fo
 </div>
 {:/}
 
-**The deadline for applications is the 30th April 2020**.
+**The deadline for applications is May 3rd 2020**.
 
 We want to hear about what you are enthusiastic about in the computing world - whether it's a project you are having fun with, a fascinating bug you solved or the story of how you learned something special.  Whether you want to talk about hardware or software, and regardless of your background or profession.
 
@@ -56,7 +56,7 @@ We ask that you make any materials used available under a CC BY-SA creative comm
 
 **When will I hear back?**
 
-We'll get back to you by May 6th.
+We'll get back to you before May 10th.
 
 **What if my talk doesn't get accepted?**
 
