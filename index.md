@@ -13,6 +13,20 @@ We're hoping that wonderful people will join us to share their enthusiasm or lis
 ## The Plan
 
 EnthusiastiCon will be held **remotely** on <b>June 6th 2020</b> for a day of 10 minute talks.
+We'll publish the schedule and details on how everything will work remotely closer to the time.
+
+
+## Accessibility
+
+EnthusiastiCon will have live captioning.
+
+YouTube will be used for streaming talks and Zulip for attendees and speakers to connect and ask questions.
+We'll provide more details about how this will work closer to the time.
+
+There will be a break within each hour and a longer break in the middle.
+The event will be about 6 hours altogether.
+
+If you'd like to attend and need other accomodations please e-mail us at [info@enthusiasticon.de](mailto:info@enthusiasticon.de).
 
 
 ## Who Can Attend
