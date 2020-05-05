@@ -35,22 +35,6 @@ This conference is open to everyone! Attendance will be free.
 
 Registration will be open closer to the event. Sign up to our mailing list for updates:
 
-## Who Will Speak
-
-Maybe you? Our [call for proposals](/cfp/) is open until May 3rd 2020!
-
-## Our Sponsors for 2020
-
-{::nomarkdown}
-
-<div class="gridify">
-  <a href="https://zulip.com" target="_blank">
-    <img alt="logo Zulip" title="Zulip" src="/assets/img/zulip-org-logo.png">
-  </a>
-</div>
-
-{:/}
-
 {::nomarkdown}
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
@@ -90,5 +74,18 @@ Our [call for proposals](/cfp/) is now closed! We will announce our speakers soo
 
 If you happen to have any questions, you can reach us at [info@enthusiasticon.de](mailto:info@enthusiasticon.de).
 Also, follow us on [twitter](https://twitter.com/enthusiasticon_).
+
+
+## Our Sponsors for 2020
+
+{::nomarkdown}
+
+<div class="gridify">
+  <a href="https://zulip.com" target="_blank">
+    <img alt="logo Zulip" title="Zulip" src="/assets/img/zulip-org-logo.png">
+  </a>
+</div>
+
+{:/}
 
 </div>
