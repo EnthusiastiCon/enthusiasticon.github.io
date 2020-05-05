@@ -25,6 +25,18 @@ Registration will be open closer to the event.
 
 Maybe you? Our [call for proposals](/cfp/) is open until May 3rd 2020!
 
+## Our Sponsors for 2020
+
+{::nomarkdown}
+
+<div class="gridify">
+  <a href="https://zulip.com" target="_blank">
+    <img alt="logo Zulip" title="Zulip" src="/assets/img/zulip-org-logo.png">
+  </a>
+</div>
+
+{:/}
+
 ## Keep me posted!
 
 Sign up for our mailing list for updates:
