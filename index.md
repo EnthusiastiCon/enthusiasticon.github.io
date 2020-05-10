@@ -9,6 +9,7 @@ We will talk about what excites us the most about programming — the strange, t
 
 We're hoping that wonderful people will join us to share their enthusiasm or listen to what makes fellow programmers beam with joy about our craft.
 
+Please note: the 2020 CfP is now closed.
 
 ## The Plan
 
