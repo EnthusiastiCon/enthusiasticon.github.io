@@ -27,9 +27,6 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
-  - title: Call for proposals
-    url: /cfp/
-    desc: Submit a talk proposal
   - title: Programme
     url: /programme/
     desc: Find Saturday's programme here!

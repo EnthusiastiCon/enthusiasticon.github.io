@@ -5,5 +5,4 @@ subtitle: Programme
 permalink: /programme/
 ---
 
-Coming soon!
-
+We'll announce the programme soon!
