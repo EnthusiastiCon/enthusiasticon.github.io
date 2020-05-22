@@ -183,7 +183,7 @@ p.post-desc {
 
 // PAGE SPONSORS ==================================
 
-.gridify:before {
+.gridify:before .rectify:before {
   display: inline-block;
   vertical-align: middle;
 }
@@ -195,8 +195,19 @@ p.post-desc {
   margin: 10px;
 }
 
+.rectify {
+  display: inline-block;
+  width: 250px;
+  height: 100px;
+  margin: 20px;
+}
+
 .gridify img {
   max-height: 150px;
+}
+
+.rectify img {
+  max-height: 100px;
 }
 
 // PAGE SPEAKERS =================================

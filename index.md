@@ -81,7 +81,13 @@ Also, follow us on [twitter](https://twitter.com/enthusiasticon_).
 
 {::nomarkdown}
 
-<div class="gridify">
+<div class="rectify">
+  <a href="https://www.mozilla.org/" target="_blank">
+    <img alt="logo Mozilla" title="Mozilla" src="/assets/img/logo_mozilla-bw-rgb.png">
+  </a>
+</div>
+
+<div class="rectify">
   <a href="https://zulip.com" target="_blank">
     <img alt="logo Zulip" title="Zulip" src="/assets/img/zulip-org-logo.png">
   </a>
