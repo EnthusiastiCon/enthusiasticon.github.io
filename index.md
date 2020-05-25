@@ -9,12 +9,11 @@ We will talk about what excites us the most about programming — the strange, t
 
 We're hoping that wonderful people will join us to share their enthusiasm or listen to what makes fellow programmers beam with joy about our craft.
 
-Please note: the 2020 CfP is now closed.
-
 ## The Plan
 
 EnthusiastiCon will be held **remotely** on <b>June 6th 2020</b> for a day of 10 minute talks.
-We'll publish the schedule and details on how everything will work remotely closer to the time.
+
+Take a look at the [schedule](/programme/)! We'll publish details on how everything will work remotely closer to the time.
 
 
 ## Accessibility
@@ -65,10 +64,6 @@ Registration will be open closer to the event. Sign up to our mailing list for u
 
 &nbsp;
 &nbsp;
-
-## Who Will Speak
-
-Our [call for proposals](/cfp/) is now closed! We will announce our speakers soon.
 
 
 ## Contact Us!
