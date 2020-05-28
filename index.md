@@ -13,6 +13,14 @@ We're hoping that wonderful people will join us to share their enthusiasm or lis
 
 EnthusiastiCon will be held **remotely** on <b>June 6th 2020</b> for a day of 10 minute talks.
 
+The talks will be livestreamed on YouTube. We'll also have a conference chat, where we'll mingle and watch the talks together. We invite you to join us! The conference will take place from **10:00-17:00 UTC+2 (Berlin time)**, but you're also welcome to join us later in the day!
+
+{::nomarkdown}
+<div class="center">
+<a href=https://pretix.eu/enthusiasticon/2020 class="button">Register for the conference (it's free!)</a>
+</div>
+{:/}
+
 Take a look at the [schedule](/programme/)! We'll publish details on how everything will work remotely closer to the time.
 
 
