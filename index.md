@@ -41,7 +41,7 @@ If you'd like to attend and need other accomodations please e-mail us at [info@e
 
 This conference is open to everyone! Attendance will be free.
 
-Registration will be open closer to the event. Sign up to our mailing list for updates:
+Registration is now open, see above! Sign up to our mailing list for updates:
 
 {::nomarkdown}
 <!-- Begin MailChimp Signup Form -->
