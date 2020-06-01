@@ -35,7 +35,7 @@ We have some ideals around how we'd like to interact with each other(\*).  We th
 
 2) **Avoid correcting someone about something that's not relevant to the current discussion**.  Rather than being helpful, these comments tend to draw attention to the person who is making that comment. For example, if people are talking about Linux, saying "it's actually called GNU/Linux" most likely won't bring the discussion forward.
 
-3) **Please avoid [subtle discriminatory language](https://everydayfeminism.com/2015/10/why-microaggressions-hurt/)**, which can make others feel unwelcome.  For example 'Windows is so easy that even my mom can use it'."
+3) **Please avoid [subtle discriminatory language](https://everydayfeminism.com/wp-content/uploads/2015/10/microaggressions.jpg)**, which can make others feel unwelcome.  For example 'Windows is so easy that even my mom can use it'."
 
 
 \* These are inspired by the Recurse Center's  [social rules](https://www.recurse.com/social-rules)
