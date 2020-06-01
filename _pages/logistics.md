@@ -22,8 +22,12 @@ Some things to keep in mind about how we'll use Zulip:
 * We'll have an 'announcements' Zulip stream where we will post important logistical and organisational information
 * We'll have a stream/topic for each talk - we'll use that to ask questions, share thoughts, and applaud!
 * Let's try to keep on-topic for the event.  We have an 'off-topic' Zulip stream.  Please use that stream for anything not related to the conference.
-* We ask everyone to put their pronouns in their Zulip name, if they'd like (e.g. `Pieter (he)`).  Please respect these at all time.
+* We ask everyone to put their pronouns in their Zulip name (e.g. Rubberduck (they) or Rubberduck (she)). Please respect these at all time. If you don't use pronouns, you're also welcome to make that explicit: Rubberduck (no pronouns)
 * Take care with @ing all as it will create notifications for all participants by default
+
+To reach us, you can use @*organizers* (use the dropdown menu)
+
+-----
 
 **We don't tolerate discriminatory language, comments, jokes, or imagery at enthusiasticon.**  Please read our [code of conduct](https://www.enthusiasticon.de/coc/)
 
