@@ -25,7 +25,7 @@ Some things to keep in mind about how we'll use Zulip:
 * We ask everyone to put their pronouns in their Zulip name (e.g. Rubberduck (they) or Rubberduck (she)). Please respect these at all time. If you don't use pronouns, you're also welcome to make that explicit: Rubberduck (no pronouns)
 * Take care with @ing all as it will create notifications for all participants by default
 
-To reach us, you can use @*organizers* (use the dropdown menu)
+To reach us, you can use `@*organizers*` (use the dropdown menu)
 
 -----
 
