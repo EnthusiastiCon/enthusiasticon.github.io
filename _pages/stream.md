@@ -7,6 +7,8 @@ permalink: /stream/
 
 {::nomarkdown}
 <iframe id="captionsFrame"
-    src="//www.streamtext.net/player/?event=IHaveADream&chat=false&header=false&footer=false&title=false&controls=true"
+    src="//www.streamtext.net/player?event=enthusiasticon&chat=false&header=false&footer=false&title=false&controls=true"
     width="100%"> </iframe>
 {:/}
+
+You can also view captions directly [here](https://www.streamtext.net/player?event=enthusiasticon)
