@@ -27,6 +27,9 @@ navigation:
   - title: About
     url: /about/
     desc: Learn about us
+  - title: Livestream
+    url: /stream/
+    desc: Watch the talks
   - title: Programme
     url: /programme/
     desc: Find Saturday's programme here!

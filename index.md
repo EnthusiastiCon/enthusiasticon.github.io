@@ -21,7 +21,7 @@ The talks will be livestreamed on YouTube. We'll also have a conference chat, wh
 </div>
 {:/}
 
-Take a look at the [schedule](/programme/)! We'll publish details on how everything will work remotely closer to the time.
+Take a look at the [schedule](/programme/), and watch the talks in the [livestream](/stream/)!
 
 
 ## Accessibility
