@@ -91,6 +91,12 @@ Also, follow us on [twitter](https://twitter.com/enthusiasticon_).
 </div>
 
 <div class="rectify">
+  <a href="https://www.wooga.com/" target="_blank">
+    <img alt="logo Wooga" title="Wooga" src="/assets/img/logo_wooga.png">
+  </a>
+</div>
+
+<div class="rectify">
   <a href="https://zulip.com" target="_blank">
     <img alt="logo Zulip" title="Zulip" src="/assets/img/zulip-org-logo.png">
   </a>
