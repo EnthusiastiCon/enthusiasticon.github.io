@@ -30,9 +30,9 @@ navigation:
   - title: Livestream
     url: /stream/
     desc: Watch the talks
-  - title: Programme
-    url: /programme/
-    desc: Find Saturday's programme here!
+  - title: Talks
+    url: /talks/
+    desc: Find the program here!
   - title: Code of Conduct
     url: /coc/
     desc: Our code of conduct
